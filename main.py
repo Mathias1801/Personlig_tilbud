@@ -16,13 +16,12 @@ def should_run() -> bool:
     return datetime.now(CPH).hour == 7
 
 
-def load_settings(path: str = "config.yaml") -> dict:
+def load_config(path: str = "config.yaml") -> dict:
     try:
         with open(path, encoding="utf-8") as f:
-            cfg = yaml.safe_load(f) or {}
+            return yaml.safe_load(f) or {}
     except FileNotFoundError:
-        cfg = {}
-    return cfg.get("settings", {})
+        return {}
 
 
 def load_products(path: str = "products.txt") -> list[str]:
@@ -35,18 +34,17 @@ def load_products(path: str = "products.txt") -> list[str]:
     return out
 
 
-def collect(products: list[str], settings: dict) -> list[dict]:
-    top_n = settings.get("top_n", 3)
+def collect(products, settings, allowed_stores) -> list[dict]:
     delay = settings.get("request_delay_seconds", 2)
     result = []
     for query in products:
         offers = scraper.search(query, delay=delay)
-        cheapest = scraper.top_cheapest(offers, n=top_n)
-        result.append({"query": query, "count": len(offers), "offers": cheapest})
+        rows = scraper.best_per_store(offers, allowed_stores)
+        result.append({"query": query, "count": len(rows), "offers": rows})
     return result
 
 
-def write_json(products: list[dict], path: str = "docs/data.json") -> None:
+def write_json(products, path: str = "docs/data.json") -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
     payload = {
         "generated_at": datetime.now(CPH).isoformat(timespec="minutes"),
@@ -60,10 +58,12 @@ def main() -> None:
     if not should_run():
         print("Det er ikke kl. 7 i Danmark lige nu – springer kørslen over.")
         return
+    config = load_config()
+    settings = config.get("settings", {})
+    allowed_stores = config.get("allowed_stores", [])
     products = load_products()
-    settings = load_settings()
-    print(f"Tjekker {len(products)} produkter...")
-    data = collect(products, settings)
+    print(f"Tjekker {len(products)} produkter i {len(allowed_stores)} butikker...")
+    data = collect(products, settings, allowed_stores)
     write_json(data)
     print("Skrev docs/data.json")
 
