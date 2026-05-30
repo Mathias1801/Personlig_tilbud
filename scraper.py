@@ -13,7 +13,7 @@ HEADERS = {
 PRICE_RE = re.compile(r'(\d{1,4}(?:[.,]\d{1,2})?)\s*,-')
 DATE_RE = re.compile(r'\d{2}\.\d{2}\s*-\s*\d{2}\.\d{2}')
 SIZE_RE = re.compile(r'\d+\s*[a-zæøå]+\.?\s*af\s*[\d.,]+\s*[a-zæøå]+\.?', re.I)
-
+UNITPRICE_RE = re.compile(r'([\d.,]+)\s*,-\s*/\s*([a-zæøå]+)', re.I)
 
 def _to_float(price_text):
     if not price_text:
@@ -22,6 +22,10 @@ def _to_float(price_text):
         return float(price_text.replace(".", "").replace(",", "."))
     except ValueError:
         return None
+
+def _norm_unit(u: str) -> str:
+    u = (u or "").lower().rstrip(".")
+    return {"ltr": "l", "liter": "l"}.get(u, u)
 
 def _matches_query(title: str, query: str) -> bool:
     if not title:
@@ -76,20 +80,32 @@ def search(query: str, delay: float = 2.0) -> list[dict]:
         size_m = SIZE_RE.search(text)
         dates = DATE_RE.findall(text)
 
+        prices = PRICE_RE.findall(text)
+        size_m = SIZE_RE.search(text)
+        dates = DATE_RE.findall(text)
+        unit_m = UNITPRICE_RE.search(text)
+
         offers.append({
             "query": query,
             "title": title,
             "size": size_m.group(0).strip() if size_m else None,
             "price": _to_float(prices[0]) if prices else None,
-            "unit_price": _to_float(prices[1]) if len(prices) > 1 else None,
+            "unit_price": _to_float(unit_m.group(1)) if unit_m else None,
+            "unit_base": _norm_unit(unit_m.group(2)) if unit_m else None,
             "store": store,
             "dates": dates[0] if dates else None,
             "link": ("https://www.tilbudsugen.dk" + href) if href.startswith("/") else href,
             "search_link": search_link,
-        })
+         })
     return offers
 
 
-def top_cheapest(offers: list[dict], n: int = 3) -> list[dict]:
-    priced = [o for o in offers if isinstance(o.get("price"), (int, float))]
-    return sorted(priced, key=lambda o: o["price"])[:n]
+def top_cheapest(offers: list[dict], n: int = 5) -> list[dict]:
+    """Rangordn efter enhedspris (kr pr. liter/kg). Varer uden enhedspris ryger bagerst."""
+    def key(o):
+        up = o.get("unit_price")
+        return up if isinstance(up, (int, float)) else float("inf")
+    candidates = [o for o in offers
+                  if isinstance(o.get("unit_price"), (int, float))
+                  or isinstance(o.get("price"), (int, float))]
+    return sorted(candidates, key=key)[:n]
