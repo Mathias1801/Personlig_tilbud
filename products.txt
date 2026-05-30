@@ -1,0 +1,9 @@
+# Tilføj ét produkt pr. linje. Tomme linjer og linjer der starter med # ignoreres.
+pepsi max
+kyllingebryst
+kyllingeoverlår
+hakket oksekød
+skyr
+yoghurt
+opvasketabs
+vaskemiddel

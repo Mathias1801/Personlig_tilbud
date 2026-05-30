@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tilbud — ugens skarpeste priser</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --paper:#F4F1EA; --paper-2:#FBFAF6; --ink:#1C1B17;
+  --stone:#857F72; --line:rgba(28,27,23,.14); --accent:#7A2C39;
+}
+html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body{background:var(--paper);color:var(--ink);
+  font-family:'Inter',system-ui,sans-serif;line-height:1.6}
+.wrap{max-width:860px;margin:0 auto;padding:0 28px}
+.label{font-size:.68rem;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--stone);font-weight:500}
+
+header{border-bottom:1px solid var(--line)}
+.topbar{display:flex;justify-content:space-between;align-items:center;
+  padding:22px 28px;max-width:860px;margin:0 auto}
+.brand{font-family:'Cormorant Garamond',serif;font-size:1.35rem;font-weight:600;
+  letter-spacing:.32em;text-transform:uppercase;text-indent:.32em}
+.updated{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--stone)}
+
+.hero{padding:82px 0 64px;border-bottom:1px solid var(--line)}
+.hero .label{margin-bottom:22px}
+.hero h1{font-family:'Cormorant Garamond',serif;font-weight:500;
+  font-size:clamp(2.6rem,7vw,4.8rem);line-height:1.04;letter-spacing:-.01em;margin-bottom:22px}
+.hero p{color:var(--stone);max-width:46ch;font-weight:300;font-size:1.02rem}
+
+main{padding:24px 0 40px}
+.product{padding:46px 0;opacity:0;transform:translateY(10px);
+  animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{to{opacity:1;transform:none}}
+.product-head{display:flex;align-items:baseline;gap:16px;
+  padding-bottom:18px;border-bottom:1px solid var(--ink)}
+.product-head .idx{font-family:'Cormorant Garamond',serif;color:var(--accent);
+  font-size:1rem;font-weight:600}
+.product-head h2{font-family:'Cormorant Garamond',serif;font-weight:500;
+  font-size:1.9rem;letter-spacing:-.005em;text-transform:capitalize;flex:1}
+.product-head .count{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase;color:var(--stone)}
+
+.offers{list-style:none}
+.offer + .offer{border-top:1px solid var(--line)}
+.offer a{display:flex;justify-content:space-between;align-items:baseline;gap:24px;
+  padding:20px 4px;text-decoration:none;color:inherit;
+  transition:padding .25s ease,background .25s ease}
+.offer a:hover{padding-left:14px;background:var(--paper-2)}
+.offer-main{flex:1;min-width:0}
+.offer-title{display:block;font-size:1.02rem;margin-bottom:5px}
+.offer-meta{display:block;font-size:.78rem;color:var(--stone)}
+.offer-meta .store{color:var(--ink);font-weight:500}
+.offer-price{text-align:right;white-space:nowrap;flex-shrink:0}
+.price{display:block;font-family:'Cormorant Garamond',serif;font-weight:600;
+  font-size:1.5rem;line-height:1;transition:color .25s ease}
+.offer a:hover .price{color:var(--accent)}
+.unit{display:block;font-size:.7rem;color:var(--stone);margin-top:6px;letter-spacing:.04em}
+.empty{padding:20px 4px;color:var(--stone);font-style:italic;font-size:.95rem}
+.state{padding:90px 0;text-align:center;color:var(--stone);letter-spacing:.04em}
+
+footer{border-top:1px solid var(--line);padding:40px 0 60px;margin-top:20px}
+footer p{font-size:.74rem;color:var(--stone);letter-spacing:.03em}
+footer a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+
+@media(max-width:560px){
+  .offer a{gap:16px} .price{font-size:1.3rem} .hero{padding:56px 0 44px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="topbar">
+    <span class="brand">Tilbud</span>
+    <span class="updated" id="updated"></span>
+  </div>
+</header>
+<div class="wrap">
+  <section class="hero">
+    <p class="label">Opdateres dagligt kl. 07</p>
+    <h1>Ugens skarpeste priser</h1>
+    <p>Et kurateret overblik over de billigste aktuelle tilbud på dine udvalgte varer — samlet ét sted.</p>
+  </section>
+  <main id="content"><p class="state">Indlæser tilbud…</p></main>
+  <footer>
+    <p>Data hentet fra <a href="https://www.tilbudsugen.dk" target="_blank" rel="noopener">tilbudsugen.dk</a>. Priser og gyldighed kan ændre sig — det er altid butikkens avis, der gælder.</p>
+  </footer>
+</div>
+<script>
+const fmt = (n) => n==null ? '' :
+  n.toLocaleString('da-DK',{minimumFractionDigits:2,maximumFractionDigits:2}) + ' kr';
+const cleanDates = (d) => d ? d.replace(/\s*-\s*/,'–') : '';
+
+function offerRow(o){
+  const meta = [o.size, o.store ? `<span class="store">${o.store}</span>` : null, cleanDates(o.dates)]
+    .filter(Boolean).join(' · ');
+  const unit = o.unit_price!=null ? `<span class="unit">${fmt(o.unit_price)}/enhed</span>` : '';
+  return `<li class="offer"><a href="${o.link}" target="_blank" rel="noopener">
+    <span class="offer-main">
+      <span class="offer-title">${o.title ?? ''}</span>
+      <span class="offer-meta">${meta}</span>
+    </span>
+    <span class="offer-price"><span class="price">${fmt(o.price)}</span>${unit}</span>
+  </a></li>`;
+}
+
+function productBlock(p, i){
+  const idx = String(i+1).padStart(2,'0');
+  const body = p.offers && p.offers.length
+    ? `<ul class="offers">${p.offers.map(offerRow).join('')}</ul>`
+    : `<p class="empty">Ingen tilbud fundet denne uge.</p>`;
+  return `<section class="product" style="animation-delay:${i*0.06}s">
+    <div class="product-head">
+      <span class="idx">${idx}</span><h2>${p.query}</h2>
+      <span class="count">${p.count} tilbud</span>
+    </div>${body}</section>`;
+}
+
+async function load(){
+  const content = document.getElementById('content');
+  try{
+    const res = await fetch('data.json?v=' + Date.now(), {cache:'no-cache'});
+    if(!res.ok) throw new Error();
+    const data = await res.json();
+    if(data.generated_at){
+      const dt = new Date(data.generated_at);
+      document.getElementById('updated').textContent = 'Opdateret ' +
+        dt.toLocaleString('da-DK',{day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'});
+    }
+    const products = data.products || [];
+    content.innerHTML = products.length
+      ? products.map(productBlock).join('')
+      : '<p class="state">Ingen produkter konfigureret endnu.</p>';
+  }catch(e){
+    content.innerHTML = '<p class="state">Kunne ikke indlæse tilbud lige nu.</p>';
+  }
+}
+load();
+</script>
+</body>
+</html>
