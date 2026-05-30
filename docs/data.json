@@ -1,257 +1,35 @@
 {
-  "generated_at": "2026-05-31T01:14+02:00",
+  "generated_at": "2026-05-31T01:17+02:00",
   "products": [
     {
       "query": "pepsi max",
-      "count": 30,
-      "offers": [
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 9.99,
-          "unit_price": 6.66,
-          "unit_base": "l",
-          "store": "Løvbjerg",
-          "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11143093",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max Lime, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
-          "unit_base": "l",
-          "store": "Dagli'Brugsen",
-          "dates": "22.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11132372",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
-          "unit_base": "l",
-          "store": "Dagli'Brugsen",
-          "dates": "22.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11132368",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        }
-      ]
+      "count": 0,
+      "offers": []
     },
     {
       "query": "kyllingebryst",
-      "count": 30,
-      "offers": [
-        {
-          "query": "kyllingebryst",
-          "title": "Xtra, Kyllingebrystfilet",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 49.0,
-          "unit_price": 61.25,
-          "unit_base": "kg",
-          "store": "SuperBrugsen",
-          "dates": "29.05 - 03.06",
-          "link": "https://www.tilbudsugen.dk/single/11130334",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
-        },
-        {
-          "query": "kyllingebryst",
-          "title": "Xtra, Kyllingebrystfilet",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 49.0,
-          "unit_price": 61.25,
-          "unit_base": "kg",
-          "store": "Kvickly",
-          "dates": "29.05 - 03.06",
-          "link": "https://www.tilbudsugen.dk/single/11133422",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
-        },
-        {
-          "query": "kyllingebryst",
-          "title": "Xtra, Kyllingebrystfilet",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 49.0,
-          "unit_price": 61.25,
-          "unit_base": "kg",
-          "store": "Kvickly",
-          "dates": "29.05 - 03.06",
-          "link": "https://www.tilbudsugen.dk/single/11148006",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
-        }
-      ]
+      "count": 0,
+      "offers": []
     },
     {
       "query": "kyllingeoverlår",
-      "count": 9,
-      "offers": [
-        {
-          "query": "kyllingeoverlår",
-          "title": "Rose, Kyllingeoverlår",
-          "size": "1 ps. af 1 kg.",
-          "price": 24.99,
-          "unit_price": 24.99,
-          "unit_base": "kg",
-          "store": "Løvbjerg",
-          "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11142849",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        },
-        {
-          "query": "kyllingeoverlår",
-          "title": "Rema 1000, Kyllingeoverlår",
-          "size": "1 bk. af 0.40 kg.",
-          "price": 10.0,
-          "unit_price": 25.0,
-          "unit_base": "kg",
-          "store": "REMA 1000",
-          "dates": "26.05 - 30.05",
-          "link": "https://www.tilbudsugen.dk/single/11130778",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        },
-        {
-          "query": "kyllingeoverlår",
-          "title": "Rose, Kyllingeoverlår",
-          "size": "1 ps. af 2.50 kg.",
-          "price": 69.99,
-          "unit_price": 28.0,
-          "unit_base": "kg",
-          "store": "Løvbjerg",
-          "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11138767",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        }
-      ]
+      "count": 0,
+      "offers": []
     },
     {
       "query": "hakket oksekød",
-      "count": 24,
-      "offers": [
-        {
-          "query": "hakket oksekød",
-          "title": "Hakket oksekød 8-12%",
-          "size": "1 bk. af 0.40 kg.",
-          "price": 33.33,
-          "unit_price": 83.33,
-          "unit_base": "kg",
-          "store": "Fleggaard",
-          "dates": "20.05 - 02.06",
-          "link": "https://www.tilbudsugen.dk/single/11129872",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
-          "title": "Hakket oksekød 8-12%",
-          "size": "1 bk. af 0.40 kg.",
-          "price": 33.33,
-          "unit_price": 83.33,
-          "unit_base": "kg",
-          "store": "Calle",
-          "dates": "20.05 - 02.06",
-          "link": "https://www.tilbudsugen.dk/single/11132458",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
-          "title": "Madværket, Hakket oksekød 14-18%",
-          "size": "1 pk. af 1.50 kg.",
-          "price": 129.0,
-          "unit_price": 86.0,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "26.05 - 30.05",
-          "link": "https://www.tilbudsugen.dk/single/11136276",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        }
-      ]
+      "count": 0,
+      "offers": []
     },
     {
       "query": "skyr",
-      "count": 30,
-      "offers": [
-        {
-          "query": "skyr",
-          "title": "Madværket, Vanilje Skyr 0,2%",
-          "size": "1 bg. af 1 kg.",
-          "price": 19.95,
-          "unit_price": 19.95,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "31.05 - 06.06",
-          "link": "https://www.tilbudsugen.dk/single/11145844",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
-        },
-        {
-          "query": "skyr",
-          "title": "Madværket, Skyr Naturel 0,2%",
-          "size": "1 bg. af 1 kg.",
-          "price": 19.95,
-          "unit_price": 19.95,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "31.05 - 06.06",
-          "link": "https://www.tilbudsugen.dk/single/11145845",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
-        },
-        {
-          "query": "skyr",
-          "title": "Madværket, Skyr Naturel 0,2%",
-          "size": "1 bg. af 1 kg.",
-          "price": 19.95,
-          "unit_price": 19.95,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "26.05 - 30.05",
-          "link": "https://www.tilbudsugen.dk/single/11136261",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
-        }
-      ]
+      "count": 0,
+      "offers": []
     },
     {
       "query": "yoghurt",
-      "count": 30,
-      "offers": [
-        {
-          "query": "yoghurt",
-          "title": "Madværket, Naturel Yoghurt 3,5%",
-          "size": "1 krt. af 1 ltr.",
-          "price": 9.95,
-          "unit_price": 9.95,
-          "unit_base": "l",
-          "store": "Lidl",
-          "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11139479",
-          "search_link": "https://www.tilbudsugen.dk/offer/yoghurt"
-        },
-        {
-          "query": "yoghurt",
-          "title": "Kløver, Naturel Yoghurt",
-          "size": "1 krt. af 1 ltr.",
-          "price": 9.95,
-          "unit_price": 9.95,
-          "unit_base": "l",
-          "store": "Netto",
-          "dates": "30.05 - 05.06",
-          "link": "https://www.tilbudsugen.dk/single/11138814",
-          "search_link": "https://www.tilbudsugen.dk/offer/yoghurt"
-        },
-        {
-          "query": "yoghurt",
-          "title": "Madværket, Naturel Yoghurt 1,5",
-          "size": "1 krt. af 1 ltr.",
-          "price": 9.95,
-          "unit_price": 9.95,
-          "unit_base": "l",
-          "store": "Lidl",
-          "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11139477",
-          "search_link": "https://www.tilbudsugen.dk/offer/yoghurt"
-        }
-      ]
+      "count": 0,
+      "offers": []
     },
     {
       "query": "opvasketabs",
@@ -260,45 +38,8 @@
     },
     {
       "query": "vaskemiddel",
-      "count": 25,
-      "offers": [
-        {
-          "query": "vaskemiddel",
-          "title": "Änglamark, Vaskemiddel-tabs",
-          "size": "1 pk. af 40 stk.",
-          "price": 30.0,
-          "unit_price": 0.75,
-          "unit_base": "stk",
-          "store": "Dagli'Brugsen",
-          "dates": "22.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11132925",
-          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
-        },
-        {
-          "query": "vaskemiddel",
-          "title": "A+, Vaskemiddel-tabs",
-          "size": "1 pk. af 20 stk.",
-          "price": 49.0,
-          "unit_price": 2.45,
-          "unit_base": "stk",
-          "store": "Føtex",
-          "dates": "29.05 - 11.06",
-          "link": "https://www.tilbudsugen.dk/single/11138525",
-          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
-        },
-        {
-          "query": "vaskemiddel",
-          "title": "A+, Vaskemiddel-tabs",
-          "size": "1 pk. af 20 stk.",
-          "price": 49.0,
-          "unit_price": 2.45,
-          "unit_base": "stk",
-          "store": "Bilka",
-          "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11143478",
-          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
-        }
-      ]
+      "count": 0,
+      "offers": []
     }
   ]
 }
