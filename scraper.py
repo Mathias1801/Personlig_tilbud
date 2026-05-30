@@ -115,9 +115,10 @@ def best_per_store(offers: list[dict], allowed_stores: list[str]) -> list[dict]:
     best: dict[str, dict] = {}
     for o in offers:
         store = (o.get("store") or "").lower()
-        canon = next((a for a in allowed if a in store), None)
-        if canon is None:                 # ikke en tilladt butik
+        matches = [a for a in allowed if a in store]
+        if not matches:                   # ikke en tilladt butik
             continue
+        canon = max(matches, key=len)     # længste match → undgår at slå kæder sammen
         if canon not in best or rank(o) < rank(best[canon]):
             best[canon] = o
 
