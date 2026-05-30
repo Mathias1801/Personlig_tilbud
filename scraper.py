@@ -96,28 +96,12 @@ def search(query: str, delay: float = 2.0) -> list[dict]:
     return offers
 
 
-def best_per_store(offers: list[dict], allowed_stores: list[str]) -> list[dict]:
-    """Behold kun de tilladte butikker og tag det bedste tilbud (laveste
-    enhedspris) fra hver. Resultatet sorteres på enhedspris."""
-    allowed = [a.lower() for a in allowed_stores]
-
-    def rank(o):
+def top_cheapest(offers: list[dict], n: int = 5) -> list[dict]:
+    """Rangordn efter enhedspris (kr pr. liter/kg). Varer uden enhedspris ryger bagerst."""
+    def key(o):
         up = o.get("unit_price")
-        if isinstance(up, (int, float)):
-            return up
-        p = o.get("price")
-        return p if isinstance(p, (int, float)) else float("inf")
-
-    best: dict[str, dict] = {}
-    for o in offers:
-        store = (o.get("store") or "").lower()
-        matches = [a for a in allowed if a in store]
-        if not matches:                   # ikke en tilladt butik
-            continue
-        canon = max(matches, key=len)     # længste match → undgår at slå kæder sammen
-        if canon not in best or rank(o) < rank(best[canon]):
-            best[canon] = o
-
-    rows = list(best.values())
-    rows.sort(key=rank)
-    return rows
+        return up if isinstance(up, (int, float)) else float("inf")
+    candidates = [o for o in offers
+                  if isinstance(o.get("unit_price"), (int, float))
+                  or isinstance(o.get("price"), (int, float))]
+    return sorted(candidates, key=key)[:n]
