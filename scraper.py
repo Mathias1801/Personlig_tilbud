@@ -79,10 +79,6 @@ def search(query: str, delay: float = 2.0) -> list[dict]:
         prices = PRICE_RE.findall(text)
         size_m = SIZE_RE.search(text)
         dates = DATE_RE.findall(text)
-
-        prices = PRICE_RE.findall(text)
-        size_m = SIZE_RE.search(text)
-        dates = DATE_RE.findall(text)
         unit_m = UNITPRICE_RE.search(text)
 
         offers.append({
@@ -96,7 +92,7 @@ def search(query: str, delay: float = 2.0) -> list[dict]:
             "dates": dates[0] if dates else None,
             "link": ("https://www.tilbudsugen.dk" + href) if href.startswith("/") else href,
             "search_link": search_link,
-         })
+        })
     return offers
 
 
