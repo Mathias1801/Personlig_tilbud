@@ -1,3 +1,15 @@
 settings:
-  top_n: 5                 # antal billigste pr. produkt
-  request_delay_seconds: 2 # pause mellem søgninger
+  request_delay_seconds: 2
+
+# Kun disse butikker vises – ét (bedste) tilbud pr. butik pr. produkt.
+# Tilføj/fjern blot en linje. Matches uden hensyn til store/små bogstaver.
+allowed_stores:
+  - Føtex
+  - SuperBrugsen
+  - Rema 1000
+  - Meny
+  - Spar
+  - Løvbjerg
+  - Bilka
+  - Lidl
+  - Netto
