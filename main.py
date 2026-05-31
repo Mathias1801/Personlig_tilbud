@@ -18,23 +18,31 @@ def load_config(path: str = "config.yaml") -> dict:
         return {}
 
 
-def load_products(path: str = "products.txt") -> list[str]:
+def load_products(path: str = "products.txt") -> list[dict]:
     out = []
     with open(path, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
-            if line and not line.startswith("#"):
-                out.append(line)
+            if not line or line.startswith("#"):
+                continue
+            if ":" in line:
+                name, rest = line.split(":", 1)
+                queries = [q.strip() for q in rest.split("|") if q.strip()]
+                out.append({"name": name.strip(), "queries": queries})
+            else:
+                out.append({"name": line, "queries": [line]})
     return out
 
 
 def collect(products, settings, allowed_stores) -> list[dict]:
     delay = settings.get("request_delay_seconds", 2)
     result = []
-    for query in products:
-        offers = scraper.search(query, delay=delay)
-        rows = scraper.best_per_store(offers, allowed_stores)
-        result.append({"query": query, "count": len(rows), "offers": rows})
+    for product in products:
+        all_offers = []
+        for query in product["queries"]:
+            all_offers.extend(scraper.search(query, delay=delay))
+        rows = scraper.best_per_store(all_offers, allowed_stores)
+        result.append({"query": product["name"], "count": len(rows), "offers": rows})
     return result
 
 
