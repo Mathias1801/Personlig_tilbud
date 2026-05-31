@@ -119,4 +119,4 @@ def best_per_store(offers: list[dict], allowed_stores: list[str]) -> list[dict]:
 
     rows = list(best.values())
     rows.sort(key=rank)
-    return rows[:5]
+    return rows[:3]
