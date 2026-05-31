@@ -2,7 +2,7 @@ name: tilbud
 
 on:
   schedule:
-    - cron: "45 8 * * *"   #0.5 * * *  # 07:00 dansk sommertid (06:00 om vinteren)
+    - cron: "10 9 * * *"
   workflow_dispatch:         # så du selv kan trykke "Run"
   push:
     branches: [ main ]
