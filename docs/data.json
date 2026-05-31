@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T11:08+02:00",
+  "generated_at": "2026-05-31T16:06+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -66,6 +66,53 @@
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
+    },
+    {
+      "query": "cheasy vanilje skyr",
+      "count": 3,
+      "offers": [
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 1 kg.",
+          "price": 20.0,
+          "unit_price": 20.0,
+          "unit_base": "kg",
+          "store": "Bilka",
+          "dates": "29.05 - 04.06",
+          "link": "https://www.tilbudsugen.dk/single/11143640",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        },
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 1 kg.",
+          "price": 20.0,
+          "unit_price": 20.0,
+          "unit_base": "kg",
+          "store": "SPAR",
+          "dates": "29.05 - 04.06",
+          "link": "https://www.tilbudsugen.dk/single/11129990",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        },
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 1 kg.",
+          "price": 24.0,
+          "unit_price": 24.0,
+          "unit_base": "kg",
+          "store": "Dagli'Brugsen",
+          "dates": "22.05 - 04.06",
+          "link": "https://www.tilbudsugen.dk/single/11132396",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        }
+      ]
+    },
+    {
+      "query": "skyllemiddel: dun-let | bamseline",
+      "count": 0,
+      "offers": []
     },
     {
       "query": "kyllingebryst",
@@ -200,6 +247,72 @@
       ]
     },
     {
+      "query": "hakket kylling",
+      "count": 5,
+      "offers": [
+        {
+          "query": "hakket kylling",
+          "title": "Danpo, Hakket kylling 3-7%",
+          "size": "1 bk. af 1 kg.",
+          "price": 49.0,
+          "unit_price": 49.0,
+          "unit_base": "kg",
+          "store": "Netto",
+          "dates": "30.05 - 05.06",
+          "link": "https://www.tilbudsugen.dk/single/11142516",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 1 kg.",
+          "price": 49.95,
+          "unit_price": 49.95,
+          "unit_base": "kg",
+          "store": "Meny",
+          "dates": "29.05 - 04.06",
+          "link": "https://www.tilbudsugen.dk/single/11131123",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 2 kg.",
+          "price": 109.0,
+          "unit_price": 54.5,
+          "unit_base": "kg",
+          "store": "Bilka",
+          "dates": "29.05 - 04.06",
+          "link": "https://www.tilbudsugen.dk/single/11143251",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Danpo, Hakket kylling 7-10%",
+          "size": "1 bk. af 1 kg.",
+          "price": 59.0,
+          "unit_price": 59.0,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "31.05 - 06.06",
+          "link": "https://www.tilbudsugen.dk/single/11145868",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 0.80 kg.",
+          "price": 49.0,
+          "unit_price": 61.25,
+          "unit_base": "kg",
+          "store": "Føtex",
+          "dates": "29.05 - 11.06",
+          "link": "https://www.tilbudsugen.dk/single/11138388",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        }
+      ]
+    },
+    {
       "query": "hakket oksekød",
       "count": 5,
       "offers": [
@@ -266,68 +379,50 @@
       ]
     },
     {
-      "query": "skyr",
-      "count": 5,
+      "query": "scoop",
+      "count": 1,
       "offers": [
         {
-          "query": "skyr",
-          "title": "Madværket, Vanilje Skyr 0,2%",
-          "size": "1 bg. af 1 kg.",
-          "price": 19.95,
-          "unit_price": 19.95,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "31.05 - 06.06",
-          "link": "https://www.tilbudsugen.dk/single/11145844",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
-        },
-        {
-          "query": "skyr",
-          "title": "Cheasy, Mango & Lime Skyr",
-          "size": "1 bg. af 1 kg.",
-          "price": 20.0,
-          "unit_price": 20.0,
-          "unit_base": "kg",
-          "store": "Bilka",
+          "query": "scoop",
+          "title": "Scoop, Hindbærsmag Læskedrik",
+          "size": "1 fl. af 0.50 ltr.",
+          "price": 12.0,
+          "unit_price": 24.0,
+          "unit_base": "l",
+          "store": "Meny",
           "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11143363",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
+          "link": "https://www.tilbudsugen.dk/single/11132253",
+          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
+        }
+      ]
+    },
+    {
+      "query": "sun lolly",
+      "count": 2,
+      "offers": [
+        {
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Jordbær",
+          "size": "1 pk. af 8 stk.",
+          "price": 12.0,
+          "unit_price": 1.5,
+          "unit_base": "stk",
+          "store": "Føtex",
+          "dates": "29.05 - 11.06",
+          "link": "https://www.tilbudsugen.dk/single/11138232",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
-          "query": "skyr",
-          "title": "Cheasy, Skovbær Skyr",
-          "size": "1 bg. af 1 kg.",
-          "price": 20.0,
-          "unit_price": 20.0,
-          "unit_base": "kg",
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Cola",
+          "size": "1 pk. af 8 stk.",
+          "price": 16.0,
+          "unit_price": 2.0,
+          "unit_base": "stk",
           "store": "SPAR",
           "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11129985",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
-        },
-        {
-          "query": "skyr",
-          "title": "Cheasy, Mango & Lime Skyr",
-          "size": "1 bg. af 1 kg.",
-          "price": 24.0,
-          "unit_price": 24.0,
-          "unit_base": "kg",
-          "store": "Dagli'Brugsen",
-          "dates": "22.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11132397",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
-        },
-        {
-          "query": "skyr",
-          "title": "Dybbækdal, Pære & Banan Skyr",
-          "size": "1 bg. af 0.40 kg.",
-          "price": 10.0,
-          "unit_price": 25.0,
-          "unit_base": "kg",
-          "store": "Coop 365discount",
-          "dates": "28.05 - 03.06",
-          "link": "https://www.tilbudsugen.dk/single/11135854",
-          "search_link": "https://www.tilbudsugen.dk/offer/skyr"
+          "link": "https://www.tilbudsugen.dk/single/11130468",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
     },
