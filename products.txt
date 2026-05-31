@@ -1,7 +1,11 @@
 # Tilføj ét produkt pr. linje. Tomme linjer og linjer der starter med # ignoreres.
 pepsi max
+cheasy vanilje skyr
+skyllemiddel: dun-let | bamseline
 kyllingebryst
 kyllingeoverlår
+hakket kylling
 hakket oksekød
-skyr
+scoop
+sun lolly
 vaskemiddel
