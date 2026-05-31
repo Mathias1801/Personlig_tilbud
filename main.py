@@ -10,12 +10,6 @@ import scraper
 CPH = ZoneInfo("Europe/Copenhagen")
 
 
-def should_run() -> bool:
-    if os.getenv("GITHUB_EVENT_NAME") != "schedule":
-        return True
-    return datetime.now(CPH).hour == 7
-
-
 def load_config(path: str = "config.yaml") -> dict:
     try:
         with open(path, encoding="utf-8") as f:
@@ -55,9 +49,6 @@ def write_json(products, path: str = "docs/data.json") -> None:
 
 
 def main() -> None:
-    if not should_run():
-        print("Det er ikke kl. 7 i Danmark lige nu – springer kørslen over.")
-        return
     config = load_config()
     settings = config.get("settings", {})
     allowed_stores = config.get("allowed_stores", [])
