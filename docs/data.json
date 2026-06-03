@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T11:15+02:00",
+  "generated_at": "2026-06-03T12:00+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,14 +19,14 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lime, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 10.0,
           "unit_price": 6.67,
           "unit_base": "l",
           "store": "Dagli'Brugsen",
           "dates": "22.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11132368",
+          "link": "https://www.tilbudsugen.dk/single/11132372",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -75,12 +75,12 @@
           "query": "cheasy vanilje skyr",
           "title": "Cheasy, Vanilje Skyr",
           "size": "1 bg. af 1 kg.",
-          "price": 24.0,
-          "unit_price": 24.0,
+          "price": 20.0,
+          "unit_price": 20.0,
           "unit_base": "kg",
-          "store": "Dagli'Brugsen",
-          "dates": "22.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11132396",
+          "store": "SuperBrugsen",
+          "dates": "04.06 - 11.06",
+          "link": "https://www.tilbudsugen.dk/single/11154022",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         }
       ]
@@ -133,18 +133,6 @@
       "offers": [
         {
           "query": "kyllingebryst",
-          "title": "Salling, Kyllingebrystfilet",
-          "size": "1 pk. af 2.85 kg.",
-          "price": 169.0,
-          "unit_price": 59.3,
-          "unit_base": "kg",
-          "store": "Bilka",
-          "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11143152",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
-        },
-        {
-          "query": "kyllingebryst",
           "title": "Xtra, Kyllingebrystfilet",
           "size": "1 bk. af 0.80 kg.",
           "price": 49.0,
@@ -153,6 +141,18 @@
           "store": "SuperBrugsen",
           "dates": "29.05 - 03.06",
           "link": "https://www.tilbudsugen.dk/single/11130334",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
+        },
+        {
+          "query": "kyllingebryst",
+          "title": "Madværket, Kyllingebrystfilet",
+          "size": "1 bk. af 1 kg.",
+          "price": 64.95,
+          "unit_price": 64.95,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11152997",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -187,6 +187,18 @@
         },
         {
           "query": "kyllingeoverlår",
+          "title": "Madværket, Kyllingeoverlår",
+          "size": "1 bk. af 0.80 kg.",
+          "price": 29.95,
+          "unit_price": 37.44,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11153001",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
+        },
+        {
+          "query": "kyllingeoverlår",
           "title": "Coop, Kyllingeoverlår",
           "size": "1 bk. af 0.80 kg.",
           "price": 29.95,
@@ -195,18 +207,6 @@
           "store": "Coop 365discount",
           "dates": "28.05 - 03.06",
           "link": "https://www.tilbudsugen.dk/single/11135826",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        },
-        {
-          "query": "kyllingeoverlår",
-          "title": "Madværket, Kyllingeoverlår",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 29.95,
-          "unit_price": 37.44,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11139400",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -266,7 +266,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11139423",
+          "link": "https://www.tilbudsugen.dk/single/11153019",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -297,8 +297,20 @@
     },
     {
       "query": "scoop",
-      "count": 1,
+      "count": 3,
       "offers": [
+        {
+          "query": "scoop",
+          "title": "Scoop, Hindbærsmag Læskedrik",
+          "size": "1 fl. af 0.50 ltr.",
+          "price": 10.0,
+          "unit_price": 20.0,
+          "unit_base": "l",
+          "store": "Coop 365discount",
+          "dates": "04.06 - 10.06",
+          "link": "https://www.tilbudsugen.dk/single/11151252",
+          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
+        },
         {
           "query": "scoop",
           "title": "Scoop, Hindbærsmag Læskedrik",
@@ -309,6 +321,18 @@
           "store": "Meny",
           "dates": "29.05 - 04.06",
           "link": "https://www.tilbudsugen.dk/single/11132253",
+          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
+        },
+        {
+          "query": "scoop",
+          "title": "Scoop, Hindbærsmag Læskedrik",
+          "size": "1 fl. af 0.50 ltr.",
+          "price": 12.0,
+          "unit_price": 24.0,
+          "unit_base": "l",
+          "store": "SuperBrugsen",
+          "dates": "04.06 - 11.06",
+          "link": "https://www.tilbudsugen.dk/single/11154476",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
@@ -331,14 +355,14 @@
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Sour Pink",
+          "title": "Sun Lolly, Is frys selv - Sour Green",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "SPAR",
           "dates": "29.05 - 04.06",
-          "link": "https://www.tilbudsugen.dk/single/11130469",
+          "link": "https://www.tilbudsugen.dk/single/11130470",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
