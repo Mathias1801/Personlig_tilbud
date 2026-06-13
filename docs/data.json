@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T11:05+02:00",
+  "generated_at": "2026-06-13T10:27+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -84,9 +84,9 @@
           "price": 25.0,
           "unit_price": 19.23,
           "unit_base": "l",
-          "store": "Føtex",
-          "dates": "12.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11166291",
+          "store": "Coop 365discount",
+          "dates": "11.06 - 17.06",
+          "link": "https://www.tilbudsugen.dk/single/11165787",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
@@ -96,9 +96,9 @@
           "price": 25.0,
           "unit_price": 19.23,
           "unit_base": "l",
-          "store": "Coop 365discount",
-          "dates": "11.06 - 17.06",
-          "link": "https://www.tilbudsugen.dk/single/11165787",
+          "store": "Føtex",
+          "dates": "12.06 - 25.06",
+          "link": "https://www.tilbudsugen.dk/single/11166291",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
@@ -138,9 +138,9 @@
           "price": 69.0,
           "unit_price": 69.0,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
+          "store": "Dagli'Brugsen",
           "dates": "01.06 - 30.06",
-          "link": "https://www.tilbudsugen.dk/single/11164500",
+          "link": "https://www.tilbudsugen.dk/single/11162412",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -150,9 +150,9 @@
           "price": 69.0,
           "unit_price": 69.0,
           "unit_base": "kg",
-          "store": "Dagli'Brugsen",
+          "store": "SuperBrugsen",
           "dates": "01.06 - 30.06",
-          "link": "https://www.tilbudsugen.dk/single/11162412",
+          "link": "https://www.tilbudsugen.dk/single/11154083",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -301,14 +301,14 @@
         },
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 14.0,
           "unit_price": 28.0,
           "unit_base": "l",
           "store": "SPAR",
           "dates": "12.06 - 18.06",
-          "link": "https://www.tilbudsugen.dk/single/11159660",
+          "link": "https://www.tilbudsugen.dk/single/11159533",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
@@ -331,26 +331,26 @@
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Hindbær",
           "size": "1 pk. af 8 stk.",
           "price": 12.0,
           "unit_price": 1.5,
           "unit_base": "stk",
           "store": "REMA 1000",
           "dates": "11.06 - 13.06",
-          "link": "https://www.tilbudsugen.dk/single/11161147",
+          "link": "https://www.tilbudsugen.dk/single/11161149",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Sour Green",
           "size": "1 pk. af 8 stk.",
           "price": 12.0,
           "unit_price": 1.5,
           "unit_base": "stk",
           "store": "Coop 365discount",
           "dates": "11.06 - 17.06",
-          "link": "https://www.tilbudsugen.dk/single/11165565",
+          "link": "https://www.tilbudsugen.dk/single/11165562",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
@@ -361,14 +361,14 @@
       "offers": [
         {
           "query": "vaskemiddel",
-          "title": "A+, Vaskemiddel-tabs",
-          "size": "1 pk. af 10 stk.",
-          "price": 22.0,
-          "unit_price": 2.2,
+          "title": "Biotex, Vaskemiddel-tabs",
+          "size": "1 pk. af 12 stk.",
+          "price": 25.0,
+          "unit_price": 2.08,
           "unit_base": "stk",
-          "store": "Netto",
-          "dates": "06.06 - 12.06",
-          "link": "https://www.tilbudsugen.dk/single/11159323",
+          "store": "REMA 1000",
+          "dates": "14.06 - 20.06",
+          "link": "https://www.tilbudsugen.dk/single/11170565",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         },
         {
