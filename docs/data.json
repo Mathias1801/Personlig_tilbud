@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T10:27+02:00",
+  "generated_at": "2026-06-14T10:44+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -7,14 +7,14 @@
       "offers": [
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lime, Cola",
+          "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 10.0,
           "unit_price": 6.67,
           "unit_base": "l",
           "store": "SuperBrugsen",
           "dates": "12.06 - 18.06",
-          "link": "https://www.tilbudsugen.dk/single/11161389",
+          "link": "https://www.tilbudsugen.dk/single/11161386",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -31,14 +31,14 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lime, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 13.99,
           "unit_price": 9.33,
           "unit_base": "l",
           "store": "Løvbjerg",
           "dates": "12.06 - 18.06",
-          "link": "https://www.tilbudsugen.dk/single/11168423",
+          "link": "https://www.tilbudsugen.dk/single/11168428",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -84,9 +84,9 @@
           "price": 25.0,
           "unit_price": 19.23,
           "unit_base": "l",
-          "store": "Coop 365discount",
-          "dates": "11.06 - 17.06",
-          "link": "https://www.tilbudsugen.dk/single/11165787",
+          "store": "Føtex",
+          "dates": "12.06 - 25.06",
+          "link": "https://www.tilbudsugen.dk/single/11166291",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
@@ -96,9 +96,9 @@
           "price": 25.0,
           "unit_price": 19.23,
           "unit_base": "l",
-          "store": "Føtex",
-          "dates": "12.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11166291",
+          "store": "Coop 365discount",
+          "dates": "11.06 - 17.06",
+          "link": "https://www.tilbudsugen.dk/single/11165787",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
@@ -138,9 +138,9 @@
           "price": 69.0,
           "unit_price": 69.0,
           "unit_base": "kg",
-          "store": "Dagli'Brugsen",
+          "store": "SuperBrugsen",
           "dates": "01.06 - 30.06",
-          "link": "https://www.tilbudsugen.dk/single/11162412",
+          "link": "https://www.tilbudsugen.dk/single/11172515",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -150,9 +150,9 @@
           "price": 69.0,
           "unit_price": 69.0,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
+          "store": "Dagli'Brugsen",
           "dates": "01.06 - 30.06",
-          "link": "https://www.tilbudsugen.dk/single/11154083",
+          "link": "https://www.tilbudsugen.dk/single/11162412",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -175,18 +175,6 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Rema 1000, Kyllingeoverlår",
-          "size": "1 bk. af 0.70 kg.",
-          "price": 29.0,
-          "unit_price": 41.43,
-          "unit_base": "kg",
-          "store": "REMA 1000",
-          "dates": "07.06 - 13.06",
-          "link": "https://www.tilbudsugen.dk/single/11159829",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        },
-        {
-          "query": "kyllingeoverlår",
           "title": "Frijsenborg, Kyllingeoverlår",
           "size": "1 bk. af 0.60 kg.",
           "price": 39.95,
@@ -195,6 +183,18 @@
           "store": "Coop 365discount",
           "dates": "11.06 - 17.06",
           "link": "https://www.tilbudsugen.dk/single/11165547",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
+        },
+        {
+          "query": "kyllingeoverlår",
+          "title": "Coop, Kyllingeoverlår",
+          "size": "1 bk. af 0.40 kg.",
+          "price": 32.0,
+          "unit_price": 80.0,
+          "unit_base": "kg",
+          "store": "SuperBrugsen",
+          "dates": "12.06 - 18.06",
+          "link": "https://www.tilbudsugen.dk/single/11162079",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -217,18 +217,6 @@
         },
         {
           "query": "hakket kylling",
-          "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 0.70 kg.",
-          "price": 39.0,
-          "unit_price": 55.71,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "07.06 - 13.06",
-          "link": "https://www.tilbudsugen.dk/single/11161974",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
-        },
-        {
-          "query": "hakket kylling",
           "title": "Xtra, Hakket kylling 7-10%",
           "size": "1 ps. af 0.80 kg.",
           "price": 49.0,
@@ -237,6 +225,18 @@
           "store": "SuperBrugsen",
           "dates": "12.06 - 18.06",
           "link": "https://www.tilbudsugen.dk/single/11161430",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 0.45 kg.",
+          "price": 30.0,
+          "unit_price": 66.67,
+          "unit_base": "kg",
+          "store": "Føtex",
+          "dates": "12.06 - 25.06",
+          "link": "https://www.tilbudsugen.dk/single/11165306",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -271,14 +271,14 @@
         },
         {
           "query": "hakket oksekød",
-          "title": "Rema 1000, Hakket oksekød 15-18%",
+          "title": "Velsmag, Hakket oksekød 14-18%",
           "size": "1 bk. af 0.40 kg.",
           "price": 37.95,
           "unit_price": 94.88,
           "unit_base": "kg",
-          "store": "REMA 1000",
-          "dates": "07.06 - 13.06",
-          "link": "https://www.tilbudsugen.dk/single/11171166",
+          "store": "Netto",
+          "dates": "13.06 - 19.06",
+          "link": "https://www.tilbudsugen.dk/single/11169032",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -319,30 +319,6 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Appelsin",
-          "size": "1 pk. af 8 stk.",
-          "price": 10.0,
-          "unit_price": 1.25,
-          "unit_base": "stk",
-          "store": "Lidl",
-          "dates": "11.06 - 13.06",
-          "link": "https://www.tilbudsugen.dk/single/11162309",
-          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
-        },
-        {
-          "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Hindbær",
-          "size": "1 pk. af 8 stk.",
-          "price": 12.0,
-          "unit_price": 1.5,
-          "unit_base": "stk",
-          "store": "REMA 1000",
-          "dates": "11.06 - 13.06",
-          "link": "https://www.tilbudsugen.dk/single/11161149",
-          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
-        },
-        {
-          "query": "sun lolly",
           "title": "Sun Lolly, Is frys selv - Sour Green",
           "size": "1 pk. af 8 stk.",
           "price": 12.0,
@@ -351,6 +327,30 @@
           "store": "Coop 365discount",
           "dates": "11.06 - 17.06",
           "link": "https://www.tilbudsugen.dk/single/11165562",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
+        },
+        {
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "size": "1 pk. af 8 stk.",
+          "price": 12.99,
+          "unit_price": 1.62,
+          "unit_base": "stk",
+          "store": "Løvbjerg",
+          "dates": "12.06 - 18.06",
+          "link": "https://www.tilbudsugen.dk/single/11168607",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
+        },
+        {
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Cola",
+          "size": "1 pk. af 8 stk.",
+          "price": 14.0,
+          "unit_price": 1.75,
+          "unit_base": "stk",
+          "store": "Dagli'Brugsen",
+          "dates": "05.06 - 18.06",
+          "link": "https://www.tilbudsugen.dk/single/11162398",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
