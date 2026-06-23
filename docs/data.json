@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T11:00+02:00",
+  "generated_at": "2026-06-23T10:33+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -26,7 +26,7 @@
           "unit_base": "l",
           "store": "Bilka",
           "dates": "19.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11183094",
+          "link": "https://www.tilbudsugen.dk/single/11186264",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -45,8 +45,20 @@
     },
     {
       "query": "cheasy vanilje skyr",
-      "count": 1,
+      "count": 2,
       "offers": [
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 1 kg.",
+          "price": 24.0,
+          "unit_price": 24.0,
+          "unit_base": "kg",
+          "store": "REMA 1000",
+          "dates": "25.06 - 27.06",
+          "link": "https://www.tilbudsugen.dk/single/11181509",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        },
         {
           "query": "cheasy vanilje skyr",
           "title": "Cheasy, Vanilje Skyr",
@@ -98,7 +110,7 @@
           "unit_base": "l",
           "store": "Bilka",
           "dates": "19.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11183494",
+          "link": "https://www.tilbudsugen.dk/single/11186501",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         }
       ]
@@ -128,7 +140,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "19.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11183333",
+          "link": "https://www.tilbudsugen.dk/single/11186192",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -138,9 +150,9 @@
           "price": 69.0,
           "unit_price": 69.0,
           "unit_base": "kg",
-          "store": "Dagli'Brugsen",
+          "store": "SuperBrugsen",
           "dates": "01.06 - 30.06",
-          "link": "https://www.tilbudsugen.dk/single/11162412",
+          "link": "https://www.tilbudsugen.dk/single/11164500",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -153,24 +165,12 @@
           "query": "kyllingeoverlår",
           "title": "Coop, Kyllingeoverlår",
           "size": "1 bk. af 0.80 kg.",
-          "price": 29.95,
-          "unit_price": 37.44,
+          "price": 29.0,
+          "unit_price": 36.25,
           "unit_base": "kg",
           "store": "Coop 365discount",
-          "dates": "18.06 - 24.06",
-          "link": "https://www.tilbudsugen.dk/single/11173498",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        },
-        {
-          "query": "kyllingeoverlår",
-          "title": "Madværket, Kyllingeoverlår",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 29.95,
-          "unit_price": 37.44,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11180501",
+          "dates": "25.06 - 01.07",
+          "link": "https://www.tilbudsugen.dk/single/11181890",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
@@ -183,6 +183,18 @@
           "store": "Netto",
           "dates": "20.06 - 26.06",
           "link": "https://www.tilbudsugen.dk/single/11176215",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
+        },
+        {
+          "query": "kyllingeoverlår",
+          "title": "Madværket, Kyllingeoverlår",
+          "size": "1 bk. af 0.80 kg.",
+          "price": 29.95,
+          "unit_price": 37.44,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11180501",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -200,7 +212,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "19.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11183118",
+          "link": "https://www.tilbudsugen.dk/single/11186289",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -212,7 +224,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "21.06 - 27.06",
-          "link": "https://www.tilbudsugen.dk/single/11183886",
+          "link": "https://www.tilbudsugen.dk/single/11185748",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -302,31 +314,31 @@
           "unit_base": "stk",
           "store": "Bilka",
           "dates": "19.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11183230",
+          "link": "https://www.tilbudsugen.dk/single/11186400",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Hindbær",
-          "size": "1 pk. af 8 stk.",
-          "price": 16.0,
-          "unit_price": 2.0,
-          "unit_base": "stk",
-          "store": "Netto",
-          "dates": "20.06 - 26.06",
-          "link": "https://www.tilbudsugen.dk/single/11176730",
-          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
-        },
-        {
-          "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Mango",
+          "title": "Sun Lolly, Is frys selv - Cola",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "SuperBrugsen",
           "dates": "19.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11172390",
+          "link": "https://www.tilbudsugen.dk/single/11172385",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
+        },
+        {
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Cola",
+          "size": "1 pk. af 8 stk.",
+          "price": 16.0,
+          "unit_price": 2.0,
+          "unit_base": "stk",
+          "store": "Netto",
+          "dates": "20.06 - 26.06",
+          "link": "https://www.tilbudsugen.dk/single/11176727",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
@@ -356,7 +368,7 @@
           "unit_base": "stk",
           "store": "Bilka",
           "dates": "19.06 - 25.06",
-          "link": "https://www.tilbudsugen.dk/single/11183106",
+          "link": "https://www.tilbudsugen.dk/single/11186277",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         },
         {
