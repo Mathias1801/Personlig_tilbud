@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:34+02:00",
+  "generated_at": "2026-06-27T09:53+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,26 +19,26 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 2 ltr.",
-          "price": 18.0,
-          "unit_price": 9.0,
+          "title": "Pepsi Max Lime, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 12.0,
+          "unit_price": 8.0,
           "unit_base": "l",
-          "store": "Netto",
-          "dates": "20.06 - 26.06",
-          "link": "https://www.tilbudsugen.dk/single/11176724",
+          "store": "REMA 1000",
+          "dates": "28.06 - 04.07",
+          "link": "https://www.tilbudsugen.dk/single/11194099",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 ds. af 0.33 ltr.",
-          "price": 3.0,
-          "unit_price": 9.09,
+          "title": "Pepsi Max Lime, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 13.99,
+          "unit_price": 9.33,
           "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "21.06 - 27.06",
-          "link": "https://www.tilbudsugen.dk/single/11181084",
+          "store": "Løvbjerg",
+          "dates": "26.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11179751",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -47,18 +47,6 @@
       "query": "cheasy vanilje skyr",
       "count": 3,
       "offers": [
-        {
-          "query": "cheasy vanilje skyr",
-          "title": "Cheasy, Vanilje Skyr",
-          "size": "1 bg. af 1 kg.",
-          "price": 24.0,
-          "unit_price": 24.0,
-          "unit_base": "kg",
-          "store": "Bilka",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11191566",
-          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
-        },
         {
           "query": "cheasy vanilje skyr",
           "title": "Cheasy, Vanilje Skyr",
@@ -75,12 +63,24 @@
           "query": "cheasy vanilje skyr",
           "title": "Cheasy, Vanilje Skyr",
           "size": "1 bg. af 1 kg.",
+          "price": 24.0,
+          "unit_price": 24.0,
+          "unit_base": "kg",
+          "store": "Bilka",
+          "dates": "26.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11191566",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        },
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 1 kg.",
           "price": 25.0,
           "unit_price": 25.0,
           "unit_base": "kg",
-          "store": "SPAR",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11173913",
+          "store": "Dagli'Brugsen",
+          "dates": "19.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11181624",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         }
       ]
@@ -187,14 +187,14 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Velsmag, Kyllingeoverlår",
-          "size": "1 pk. af 0.80 kg.",
-          "price": 29.95,
-          "unit_price": 37.44,
+          "title": "Rema 1000, Kyllingeoverlår",
+          "size": "1 bk. af 0.70 kg.",
+          "price": 25.0,
+          "unit_price": 35.71,
           "unit_base": "kg",
-          "store": "Netto",
-          "dates": "20.06 - 26.06",
-          "link": "https://www.tilbudsugen.dk/single/11176215",
+          "store": "REMA 1000",
+          "dates": "28.06 - 04.07",
+          "link": "https://www.tilbudsugen.dk/single/11193973",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
@@ -320,14 +320,14 @@
           "unit_base": "l",
           "store": "Bilka",
           "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11192026",
+          "link": "https://www.tilbudsugen.dk/single/11194761",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
     },
     {
       "query": "sun lolly",
-      "count": 3,
+      "count": 2,
       "offers": [
         {
           "query": "sun lolly",
@@ -339,18 +339,6 @@
           "store": "SPAR",
           "dates": "26.06 - 02.07",
           "link": "https://www.tilbudsugen.dk/single/11173649",
-          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
-        },
-        {
-          "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Cola",
-          "size": "1 pk. af 8 stk.",
-          "price": 16.0,
-          "unit_price": 2.0,
-          "unit_base": "stk",
-          "store": "Netto",
-          "dates": "20.06 - 26.06",
-          "link": "https://www.tilbudsugen.dk/single/11176727",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
@@ -373,14 +361,14 @@
       "offers": [
         {
           "query": "vaskemiddel",
-          "title": "Hello Sensitive, Vaskemiddel-tabs",
-          "size": "1 pk. af 16 stk.",
-          "price": 29.0,
-          "unit_price": 1.81,
+          "title": "A+, Vaskemiddel-tabs",
+          "size": "1 pk. af 20 stk.",
+          "price": 49.0,
+          "unit_price": 2.45,
           "unit_base": "stk",
           "store": "Netto",
-          "dates": "20.06 - 26.06",
-          "link": "https://www.tilbudsugen.dk/single/11176445",
+          "dates": "27.06 - 03.07",
+          "link": "https://www.tilbudsugen.dk/single/11183802",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         },
         {
