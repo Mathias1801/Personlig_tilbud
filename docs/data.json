@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:26+02:00",
+  "generated_at": "2026-06-29T11:54+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -7,14 +7,14 @@
       "offers": [
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lime, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 12.0,
           "unit_price": 8.0,
           "unit_base": "l",
           "store": "REMA 1000",
           "dates": "28.06 - 04.07",
-          "link": "https://www.tilbudsugen.dk/single/11194098",
+          "link": "https://www.tilbudsugen.dk/single/11194099",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -66,9 +66,9 @@
           "price": 25.0,
           "unit_price": 25.0,
           "unit_base": "kg",
-          "store": "SPAR",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11173913",
+          "store": "Dagli'Brugsen",
+          "dates": "19.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11181624",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         },
         {
@@ -78,9 +78,9 @@
           "price": 25.0,
           "unit_price": 25.0,
           "unit_base": "kg",
-          "store": "Dagli'Brugsen",
-          "dates": "19.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11181624",
+          "store": "SPAR",
+          "dates": "26.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11173913",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         }
       ]
@@ -242,13 +242,13 @@
         {
           "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 50.0,
-          "unit_price": 62.5,
+          "size": "1 bk. af 1 kg.",
+          "price": 59.95,
+          "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "Føtex",
-          "dates": "26.06 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11187164",
+          "store": "SPAR",
+          "dates": "01.07 - 31.07",
+          "link": "https://www.tilbudsugen.dk/single/11190759",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -306,9 +306,9 @@
           "price": 24.0,
           "unit_price": 24.0,
           "unit_base": "l",
-          "store": "Føtex",
-          "dates": "26.06 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11187263",
+          "store": "Bilka",
+          "dates": "26.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11194761",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -318,9 +318,9 @@
           "price": 24.0,
           "unit_price": 24.0,
           "unit_base": "l",
-          "store": "Bilka",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11194761",
+          "store": "Føtex",
+          "dates": "26.06 - 30.07",
+          "link": "https://www.tilbudsugen.dk/single/11187263",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
@@ -331,26 +331,26 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Cola",
           "size": "1 pk. af 8 stk.",
           "price": 14.0,
           "unit_price": 1.75,
           "unit_base": "stk",
           "store": "SPAR",
           "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11173649",
+          "link": "https://www.tilbudsugen.dk/single/11173660",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Cola",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Føtex",
           "dates": "26.06 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11187258",
+          "link": "https://www.tilbudsugen.dk/single/11187269",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
