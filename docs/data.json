@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:52+02:00",
+  "generated_at": "2026-07-02T10:16+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -14,19 +14,7 @@
           "unit_base": "l",
           "store": "Lidl",
           "dates": "02.07 - 04.07",
-          "link": "https://www.tilbudsugen.dk/single/11196809",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 12.0,
-          "unit_price": 8.0,
-          "unit_base": "l",
-          "store": "Dagli'Brugsen",
-          "dates": "19.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11181583",
+          "link": "https://www.tilbudsugen.dk/single/11203320",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -39,6 +27,18 @@
           "store": "REMA 1000",
           "dates": "28.06 - 04.07",
           "link": "https://www.tilbudsugen.dk/single/11194098",
+          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
+        },
+        {
+          "query": "pepsi max",
+          "title": "Pepsi Max, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 12.0,
+          "unit_price": 8.0,
+          "unit_base": "l",
+          "store": "Dagli'Brugsen",
+          "dates": "19.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11181583",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -68,7 +68,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11198007",
+          "link": "https://www.tilbudsugen.dk/single/11202221",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         },
         {
@@ -78,9 +78,9 @@
           "price": 25.0,
           "unit_price": 25.0,
           "unit_base": "kg",
-          "store": "SPAR",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11173913",
+          "store": "Dagli'Brugsen",
+          "dates": "19.06 - 02.07",
+          "link": "https://www.tilbudsugen.dk/single/11181624",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         }
       ]
@@ -102,6 +102,18 @@
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
+          "query": "dun-let",
+          "title": "Dun-let, Skyllemiddel",
+          "size": "1 stk. af 2 ltr.",
+          "price": 45.0,
+          "unit_price": 22.5,
+          "unit_base": "l",
+          "store": "Bilka",
+          "dates": "03.07 - 09.07",
+          "link": "https://www.tilbudsugen.dk/single/11200992",
+          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
+        },
+        {
           "query": "bamseline",
           "title": "Bamseline, Skyllemiddel",
           "size": "1 stk. af 0.93 ltr.",
@@ -112,18 +124,6 @@
           "dates": "26.06 - 02.07",
           "link": "https://www.tilbudsugen.dk/single/11178131",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
-        },
-        {
-          "query": "dun-let",
-          "title": "Dun-let, Skyllemiddel",
-          "size": "1 stk. af 1 ltr.",
-          "price": 24.99,
-          "unit_price": 24.99,
-          "unit_base": "l",
-          "store": "Løvbjerg",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11180197",
-          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         }
       ]
     },
@@ -199,14 +199,14 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Rema 1000, Kyllingeoverlår",
-          "size": "1 bk. af 0.70 kg.",
-          "price": 25.0,
-          "unit_price": 35.71,
+          "title": "Salling, Kyllingeoverlår",
+          "size": "1 ps. af 1.25 kg.",
+          "price": 35.0,
+          "unit_price": 28.0,
           "unit_base": "kg",
-          "store": "REMA 1000",
-          "dates": "28.06 - 04.07",
-          "link": "https://www.tilbudsugen.dk/single/11193973",
+          "store": "Bilka",
+          "dates": "03.07 - 09.07",
+          "link": "https://www.tilbudsugen.dk/single/11200432",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -236,7 +236,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11197935",
+          "link": "https://www.tilbudsugen.dk/single/11202152",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -248,7 +248,7 @@
           "unit_base": "kg",
           "store": "SPAR",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11182244",
+          "link": "https://www.tilbudsugen.dk/single/11190759",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -266,7 +266,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11197875",
+          "link": "https://www.tilbudsugen.dk/single/11202091",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -283,14 +283,14 @@
         },
         {
           "query": "hakket oksekød",
-          "title": "Gestus, Hakket oksekød 14-18%",
-          "size": "1 ps. af 0.40 kg.",
-          "price": 37.99,
-          "unit_price": 94.98,
+          "title": "Velsmag, Hakket oksekød 14-18%",
+          "size": "1 bk. af 0.40 kg.",
+          "price": 37.95,
+          "unit_price": 94.88,
           "unit_base": "kg",
-          "store": "Løvbjerg",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11179942",
+          "store": "Netto",
+          "dates": "04.07 - 10.07",
+          "link": "https://www.tilbudsugen.dk/single/11198408",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -331,14 +331,14 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Sour Green",
           "size": "1 pk. af 8 stk.",
           "price": 14.0,
           "unit_price": 1.75,
           "unit_base": "stk",
           "store": "SPAR",
           "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11173649",
+          "link": "https://www.tilbudsugen.dk/single/11173662",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
@@ -355,14 +355,14 @@
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Cola",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
           "size": "1 pk. af 8 stk.",
           "price": 18.0,
           "unit_price": 2.25,
           "unit_base": "stk",
           "store": "SuperBrugsen",
           "dates": "03.07 - 16.07",
-          "link": "https://www.tilbudsugen.dk/single/11198799",
+          "link": "https://www.tilbudsugen.dk/single/11198803",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
@@ -397,14 +397,14 @@
         },
         {
           "query": "vaskemiddel",
-          "title": "Salling Fri, Vaskemiddel-flydende",
-          "size": "1 fl. af 0.75 ltr.",
-          "price": 19.0,
-          "unit_price": 25.33,
+          "title": "PW, Vaskemiddel-flydende",
+          "size": "1 stk. af 4.30 ltr.",
+          "price": 49.0,
+          "unit_price": 11.4,
           "unit_base": "l",
           "store": "Bilka",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11198099",
+          "dates": "03.07 - 09.07",
+          "link": "https://www.tilbudsugen.dk/single/11201253",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         }
       ]
