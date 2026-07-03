@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T10:16+02:00",
+  "generated_at": "2026-07-03T10:15+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -33,12 +33,12 @@
           "query": "pepsi max",
           "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
-          "price": 12.0,
-          "unit_price": 8.0,
+          "price": 15.0,
+          "unit_price": 10.0,
           "unit_base": "l",
-          "store": "Dagli'Brugsen",
-          "dates": "19.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11181583",
+          "store": "Bilka",
+          "dates": "03.07 - 09.07",
+          "link": "https://www.tilbudsugen.dk/single/11200765",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -63,24 +63,24 @@
           "query": "cheasy vanilje skyr",
           "title": "Cheasy, Vanilje Skyr",
           "size": "1 bg. af 1 kg.",
-          "price": 24.0,
-          "unit_price": 24.0,
+          "price": 26.0,
+          "unit_price": 26.0,
           "unit_base": "kg",
-          "store": "Bilka",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11202221",
+          "store": "SuperBrugsen",
+          "dates": "03.07 - 16.07",
+          "link": "https://www.tilbudsugen.dk/single/11198669",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         },
         {
           "query": "cheasy vanilje skyr",
           "title": "Cheasy, Vanilje Skyr",
-          "size": "1 bg. af 1 kg.",
-          "price": 25.0,
-          "unit_price": 25.0,
+          "size": "1 bg. af 0.18 kg.",
+          "price": 5.0,
+          "unit_price": 27.78,
           "unit_base": "kg",
-          "store": "Dagli'Brugsen",
-          "dates": "19.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11181624",
+          "store": "REMA 1000",
+          "dates": "28.06 - 04.07",
+          "link": "https://www.tilbudsugen.dk/single/11194306",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         }
       ]
@@ -89,18 +89,6 @@
       "query": "skyllemiddel",
       "count": 3,
       "offers": [
-        {
-          "query": "dun-let",
-          "title": "Dun-let, Skyllemiddel",
-          "size": "1 stk. af 1 ltr.",
-          "price": 19.95,
-          "unit_price": 19.95,
-          "unit_base": "l",
-          "store": "Meny",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11174506",
-          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
-        },
         {
           "query": "dun-let",
           "title": "Dun-let, Skyllemiddel",
@@ -114,15 +102,27 @@
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
+          "query": "dun-let",
+          "title": "Dun-let, Skyllemiddel",
+          "size": "1 stk. af 1 ltr.",
+          "price": 25.0,
+          "unit_price": 25.0,
+          "unit_base": "l",
+          "store": "SuperBrugsen",
+          "dates": "03.07 - 16.07",
+          "link": "https://www.tilbudsugen.dk/single/11197809",
+          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
+        },
+        {
           "query": "bamseline",
           "title": "Bamseline, Skyllemiddel",
           "size": "1 stk. af 0.93 ltr.",
-          "price": 22.0,
-          "unit_price": 23.78,
+          "price": 25.0,
+          "unit_price": 27.03,
           "unit_base": "l",
-          "store": "SuperBrugsen",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11178131",
+          "store": "Føtex",
+          "dates": "26.06 - 30.07",
+          "link": "https://www.tilbudsugen.dk/single/11187384",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         }
       ]
@@ -158,13 +158,13 @@
         {
           "query": "kyllingebryst",
           "title": "Madværket, Kyllingebrystfilet",
-          "size": "1 bk. af 1 kg.",
-          "price": 64.95,
-          "unit_price": 64.95,
+          "size": "1 bk. af 0.45 kg.",
+          "price": 29.0,
+          "unit_price": 64.44,
           "unit_base": "kg",
           "store": "Lidl",
-          "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11196238",
+          "dates": "05.07 - 11.07",
+          "link": "https://www.tilbudsugen.dk/single/11205163",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -230,13 +230,13 @@
         {
           "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 2 kg.",
-          "price": 109.0,
-          "unit_price": 54.5,
+          "size": "1 bk. af 1 kg.",
+          "price": 55.0,
+          "unit_price": 55.0,
           "unit_base": "kg",
           "store": "Bilka",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11202152",
+          "dates": "03.07 - 09.07",
+          "link": "https://www.tilbudsugen.dk/single/11200449",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -246,9 +246,9 @@
           "price": 59.95,
           "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "SPAR",
+          "store": "Meny",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11190759",
+          "link": "https://www.tilbudsugen.dk/single/11185268",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -265,8 +265,8 @@
           "unit_price": 90.83,
           "unit_base": "kg",
           "store": "Bilka",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11202091",
+          "dates": "03.07 - 09.07",
+          "link": "https://www.tilbudsugen.dk/single/11200152",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -277,8 +277,8 @@
           "unit_price": 91.19,
           "unit_base": "kg",
           "store": "Lidl",
-          "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11196250",
+          "dates": "05.07 - 11.07",
+          "link": "https://www.tilbudsugen.dk/single/11205259",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -297,7 +297,7 @@
     },
     {
       "query": "scoop",
-      "count": 2,
+      "count": 1,
       "offers": [
         {
           "query": "scoop",
@@ -310,18 +310,6 @@
           "dates": "26.06 - 30.07",
           "link": "https://www.tilbudsugen.dk/single/11187263",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
-        },
-        {
-          "query": "scoop",
-          "title": "Scoop, Hindbærsmag Læskedrik",
-          "size": "2 fl. af 0.50 ltr.",
-          "price": 24.0,
-          "unit_price": 24.0,
-          "unit_base": "l",
-          "store": "Bilka",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11196065",
-          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
     },
@@ -331,14 +319,26 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Sour Green",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
           "size": "1 pk. af 8 stk.",
-          "price": 14.0,
-          "unit_price": 1.75,
+          "price": 12.0,
+          "unit_price": 1.5,
           "unit_base": "stk",
-          "store": "SPAR",
-          "dates": "26.06 - 02.07",
-          "link": "https://www.tilbudsugen.dk/single/11173662",
+          "store": "REMA 1000",
+          "dates": "05.07 - 11.07",
+          "link": "https://www.tilbudsugen.dk/single/11202544",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
+        },
+        {
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Hindbær",
+          "size": "1 pk. af 8 stk.",
+          "price": 16.0,
+          "unit_price": 2.0,
+          "unit_base": "stk",
+          "store": "Dagli'Brugsen",
+          "dates": "03.07 - 16.07",
+          "link": "https://www.tilbudsugen.dk/single/11205310",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
@@ -351,18 +351,6 @@
           "store": "Føtex",
           "dates": "26.06 - 30.07",
           "link": "https://www.tilbudsugen.dk/single/11187258",
-          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
-        },
-        {
-          "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
-          "size": "1 pk. af 8 stk.",
-          "price": 18.0,
-          "unit_price": 2.25,
-          "unit_base": "stk",
-          "store": "SuperBrugsen",
-          "dates": "03.07 - 16.07",
-          "link": "https://www.tilbudsugen.dk/single/11198803",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
