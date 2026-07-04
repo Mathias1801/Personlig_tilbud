@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T10:15+02:00",
+  "generated_at": "2026-07-04T09:52+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -120,9 +120,9 @@
           "price": 25.0,
           "unit_price": 27.03,
           "unit_base": "l",
-          "store": "Føtex",
-          "dates": "26.06 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11187384",
+          "store": "Netto",
+          "dates": "04.07 - 10.07",
+          "link": "https://www.tilbudsugen.dk/single/11198983",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         }
       ]
@@ -206,7 +206,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "03.07 - 09.07",
-          "link": "https://www.tilbudsugen.dk/single/11200432",
+          "link": "https://www.tilbudsugen.dk/single/11207464",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -215,18 +215,6 @@
       "query": "hakket kylling",
       "count": 3,
       "offers": [
-        {
-          "query": "hakket kylling",
-          "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 0.70 kg.",
-          "price": 35.0,
-          "unit_price": 50.0,
-          "unit_base": "kg",
-          "store": "Netto",
-          "dates": "27.06 - 03.07",
-          "link": "https://www.tilbudsugen.dk/single/11183435",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
-        },
         {
           "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
@@ -248,7 +236,19 @@
           "unit_base": "kg",
           "store": "Meny",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11185268",
+          "link": "https://www.tilbudsugen.dk/single/11206385",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 1 kg.",
+          "price": 59.95,
+          "unit_price": 59.95,
+          "unit_base": "kg",
+          "store": "SPAR",
+          "dates": "01.07 - 31.07",
+          "link": "https://www.tilbudsugen.dk/single/11182244",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -319,26 +319,26 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Hyldeblomst",
           "size": "1 pk. af 8 stk.",
           "price": 12.0,
           "unit_price": 1.5,
           "unit_base": "stk",
           "store": "REMA 1000",
           "dates": "05.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11202544",
+          "link": "https://www.tilbudsugen.dk/single/11202556",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Hindbær",
+          "title": "Sun Lolly, Is frys selv - Cola",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Dagli'Brugsen",
           "dates": "03.07 - 16.07",
-          "link": "https://www.tilbudsugen.dk/single/11205310",
+          "link": "https://www.tilbudsugen.dk/single/11205309",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
@@ -373,14 +373,14 @@
         },
         {
           "query": "vaskemiddel",
-          "title": "A+, Vaskemiddel-tabs",
-          "size": "1 pk. af 20 stk.",
-          "price": 49.0,
-          "unit_price": 2.45,
-          "unit_base": "stk",
+          "title": "PW, Vaskemiddel-flydende",
+          "size": "1 stk. af 2 ltr.",
+          "price": 20.0,
+          "unit_price": 10.0,
+          "unit_base": "l",
           "store": "Netto",
-          "dates": "27.06 - 03.07",
-          "link": "https://www.tilbudsugen.dk/single/11183802",
+          "dates": "04.07 - 10.07",
+          "link": "https://www.tilbudsugen.dk/single/11198969",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         },
         {
