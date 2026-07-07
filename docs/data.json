@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:05+02:00",
+  "generated_at": "2026-07-07T10:28+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,26 +19,26 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lime, Cola 24 pk.",
-          "size": "24 ds. af 0.33 ltr.",
-          "price": 84.99,
-          "unit_price": 10.73,
+          "title": "Pepsi Max Lemon, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 15.0,
+          "unit_price": 10.0,
           "unit_base": "l",
-          "store": "Løvbjerg",
-          "dates": "03.07 - 16.07",
-          "link": "https://www.tilbudsugen.dk/single/11196492",
+          "store": "Lidl",
+          "dates": "09.07 - 11.07",
+          "link": "https://www.tilbudsugen.dk/single/11210068",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
           "title": "Pepsi Max, Cola 24 pk.",
           "size": "24 ds. af 0.33 ltr.",
-          "price": 89.0,
-          "unit_price": 11.24,
+          "price": 84.99,
+          "unit_price": 10.73,
           "unit_base": "l",
-          "store": "Føtex",
-          "dates": "26.06 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11187260",
+          "store": "Løvbjerg",
+          "dates": "03.07 - 16.07",
+          "link": "https://www.tilbudsugen.dk/single/11196490",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -108,9 +108,9 @@
           "price": 25.0,
           "unit_price": 27.03,
           "unit_base": "l",
-          "store": "Føtex",
-          "dates": "26.06 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11187384",
+          "store": "Netto",
+          "dates": "04.07 - 10.07",
+          "link": "https://www.tilbudsugen.dk/single/11198983",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         }
       ]
@@ -152,7 +152,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "05.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11205163",
+          "link": "https://www.tilbudsugen.dk/single/11209727",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -222,9 +222,9 @@
           "price": 59.95,
           "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "Meny",
+          "store": "SPAR",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11206385",
+          "link": "https://www.tilbudsugen.dk/single/11190759",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -234,9 +234,9 @@
           "price": 59.95,
           "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "SPAR",
+          "store": "Meny",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11190759",
+          "link": "https://www.tilbudsugen.dk/single/11206385",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -265,8 +265,8 @@
           "unit_price": 91.19,
           "unit_base": "kg",
           "store": "Lidl",
-          "dates": "05.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11205259",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11196250",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -319,14 +319,14 @@
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Cola",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Dagli'Brugsen",
           "dates": "03.07 - 16.07",
-          "link": "https://www.tilbudsugen.dk/single/11205309",
+          "link": "https://www.tilbudsugen.dk/single/11205304",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
