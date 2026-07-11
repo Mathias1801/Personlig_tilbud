@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:28+02:00",
+  "generated_at": "2026-07-11T09:16+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -38,7 +38,7 @@
           "unit_base": "l",
           "store": "Lidl",
           "dates": "09.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11215832",
+          "link": "https://www.tilbudsugen.dk/single/11215828",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -246,9 +246,9 @@
           "price": 59.95,
           "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "SPAR",
+          "store": "Meny",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11182244",
+          "link": "https://www.tilbudsugen.dk/single/11206385",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -271,18 +271,6 @@
         },
         {
           "query": "hakket oksekød",
-          "title": "Velsmag, Hakket oksekød 14-18%",
-          "size": "1 bk. af 0.40 kg.",
-          "price": 37.95,
-          "unit_price": 94.88,
-          "unit_base": "kg",
-          "store": "Netto",
-          "dates": "04.07 - 10.07",
-          "link": "https://www.tilbudsugen.dk/single/11198408",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
           "title": "Salling Mester Hakket, Hakket oksekød 9-15%",
           "size": "1 bk. af 0.50 kg.",
           "price": 49.0,
@@ -291,6 +279,18 @@
           "store": "Føtex",
           "dates": "26.06 - 30.07",
           "link": "https://www.tilbudsugen.dk/single/11187053",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
+        },
+        {
+          "query": "hakket oksekød",
+          "title": "Velsmag, Hakket oksekød 8-12%",
+          "size": "1 ps. af 0.40 kg.",
+          "price": 39.95,
+          "unit_price": 99.88,
+          "unit_base": "kg",
+          "store": "Netto",
+          "dates": "11.07 - 17.07",
+          "link": "https://www.tilbudsugen.dk/single/11208536",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -331,14 +331,14 @@
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Jordbær",
+          "title": "Sun Lolly, Is frys selv - Cola",
           "size": "1 pk. af 8 stk.",
           "price": 12.0,
           "unit_price": 1.5,
           "unit_base": "stk",
           "store": "Netto",
           "dates": "11.07 - 17.07",
-          "link": "https://www.tilbudsugen.dk/single/11209112",
+          "link": "https://www.tilbudsugen.dk/single/11209111",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
@@ -373,18 +373,6 @@
         },
         {
           "query": "vaskemiddel",
-          "title": "PW, Vaskemiddel-flydende",
-          "size": "1 stk. af 2 ltr.",
-          "price": 20.0,
-          "unit_price": 10.0,
-          "unit_base": "l",
-          "store": "Netto",
-          "dates": "04.07 - 10.07",
-          "link": "https://www.tilbudsugen.dk/single/11198969",
-          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
-        },
-        {
-          "query": "vaskemiddel",
           "title": "Rema 1000, Vaskemiddel-flydende",
           "size": "1 fl. af 1 ltr.",
           "price": 20.0,
@@ -393,6 +381,18 @@
           "store": "REMA 1000",
           "dates": "05.07 - 11.07",
           "link": "https://www.tilbudsugen.dk/single/11203713",
+          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
+        },
+        {
+          "query": "vaskemiddel",
+          "title": "Omo, Vaskemiddel-flydende",
+          "size": "1 fl. af 2.50 ltr.",
+          "price": 65.0,
+          "unit_price": 26.0,
+          "unit_base": "l",
+          "store": "SPAR",
+          "dates": "10.07 - 16.07",
+          "link": "https://www.tilbudsugen.dk/single/11190873",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         }
       ]
