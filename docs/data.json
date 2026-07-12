@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T09:16+02:00",
+  "generated_at": "2026-07-12T09:32+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,26 +19,26 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola 24 pk.",
+          "title": "Pepsi Max Lime, Cola 24 pk.",
           "size": "24 ds. af 0.33 ltr.",
           "price": 75.0,
           "unit_price": 9.47,
           "unit_base": "l",
           "store": "SPAR",
           "dates": "10.07 - 16.07",
-          "link": "https://www.tilbudsugen.dk/single/11190816",
+          "link": "https://www.tilbudsugen.dk/single/11190818",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lemon, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 15.0,
-          "unit_price": 10.0,
+          "title": "Pepsi Max, Cola",
+          "size": "1 ds. af 0.33 ltr.",
+          "price": 3.5,
+          "unit_price": 10.61,
           "unit_base": "l",
-          "store": "Lidl",
-          "dates": "09.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11215828",
+          "store": "REMA 1000",
+          "dates": "12.07 - 18.07",
+          "link": "https://www.tilbudsugen.dk/single/11213518",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -158,13 +158,13 @@
         {
           "query": "kyllingebryst",
           "title": "Madværket, Kyllingebrystfilet",
-          "size": "1 bk. af 0.45 kg.",
-          "price": 29.0,
-          "unit_price": 64.44,
+          "size": "1 bk. af 1 kg.",
+          "price": 64.95,
+          "unit_price": 64.95,
           "unit_base": "kg",
           "store": "Lidl",
-          "dates": "05.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11215490",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11196238",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -246,9 +246,9 @@
           "price": 59.95,
           "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "Meny",
+          "store": "SPAR",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11206385",
+          "link": "https://www.tilbudsugen.dk/single/11211882",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -324,21 +324,9 @@
           "price": 12.0,
           "unit_price": 1.5,
           "unit_base": "stk",
-          "store": "REMA 1000",
-          "dates": "05.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11202544",
-          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
-        },
-        {
-          "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Cola",
-          "size": "1 pk. af 8 stk.",
-          "price": 12.0,
-          "unit_price": 1.5,
-          "unit_base": "stk",
           "store": "Netto",
           "dates": "11.07 - 17.07",
-          "link": "https://www.tilbudsugen.dk/single/11209111",
+          "link": "https://www.tilbudsugen.dk/single/11209113",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
@@ -351,6 +339,18 @@
           "store": "Bilka",
           "dates": "10.07 - 16.07",
           "link": "https://www.tilbudsugen.dk/single/11220175",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
+        },
+        {
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Hindbær",
+          "size": "1 pk. af 8 stk.",
+          "price": 16.0,
+          "unit_price": 2.0,
+          "unit_base": "stk",
+          "store": "Dagli'Brugsen",
+          "dates": "03.07 - 16.07",
+          "link": "https://www.tilbudsugen.dk/single/11205310",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
@@ -373,18 +373,6 @@
         },
         {
           "query": "vaskemiddel",
-          "title": "Rema 1000, Vaskemiddel-flydende",
-          "size": "1 fl. af 1 ltr.",
-          "price": 20.0,
-          "unit_price": 20.0,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "05.07 - 11.07",
-          "link": "https://www.tilbudsugen.dk/single/11203713",
-          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
-        },
-        {
-          "query": "vaskemiddel",
           "title": "Omo, Vaskemiddel-flydende",
           "size": "1 fl. af 2.50 ltr.",
           "price": 65.0,
@@ -393,6 +381,18 @@
           "store": "SPAR",
           "dates": "10.07 - 16.07",
           "link": "https://www.tilbudsugen.dk/single/11190873",
+          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
+        },
+        {
+          "query": "vaskemiddel",
+          "title": "Omo, Vaskemiddel-flydende",
+          "size": "1 fl. af 0.70 ltr.",
+          "price": 20.0,
+          "unit_price": 28.57,
+          "unit_base": "l",
+          "store": "REMA 1000",
+          "dates": "12.07 - 18.07",
+          "link": "https://www.tilbudsugen.dk/single/11213484",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         }
       ]
