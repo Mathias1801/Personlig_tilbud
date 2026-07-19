@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T09:02+02:00",
+  "generated_at": "2026-07-19T09:31+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -68,18 +68,6 @@
         {
           "query": "dun-let",
           "title": "Dun-let, Skyllemiddel",
-          "size": "1 stk. af 1 ltr.",
-          "price": 18.0,
-          "unit_price": 18.0,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "12.07 - 18.07",
-          "link": "https://www.tilbudsugen.dk/single/11213489",
-          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
-        },
-        {
-          "query": "dun-let",
-          "title": "Dun-let, Skyllemiddel",
           "size": "1 stk. af 2 ltr.",
           "price": 39.0,
           "unit_price": 19.5,
@@ -99,6 +87,18 @@
           "store": "Løvbjerg",
           "dates": "17.07 - 30.07",
           "link": "https://www.tilbudsugen.dk/single/11204556",
+          "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
+        },
+        {
+          "query": "bamseline",
+          "title": "Bamseline, Skyllemiddel",
+          "size": "1 stk. af 0.93 ltr.",
+          "price": 25.0,
+          "unit_price": 27.03,
+          "unit_base": "l",
+          "store": "Føtex",
+          "dates": "26.06 - 30.07",
+          "link": "https://www.tilbudsugen.dk/single/11187384",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         }
       ]
@@ -194,13 +194,13 @@
         {
           "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 0.70 kg.",
-          "price": 39.0,
-          "unit_price": 55.71,
+          "size": "1 bk. af 1 kg.",
+          "price": 59.95,
+          "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "12.07 - 18.07",
-          "link": "https://www.tilbudsugen.dk/single/11220788",
+          "store": "SPAR",
+          "dates": "01.07 - 31.07",
+          "link": "https://www.tilbudsugen.dk/single/11190759",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -212,19 +212,19 @@
           "unit_base": "kg",
           "store": "Meny",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11204212",
+          "link": "https://www.tilbudsugen.dk/single/11206385",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
           "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
           "size": "1 bk. af 1 kg.",
-          "price": 59.95,
-          "unit_price": 59.95,
+          "price": 59.99,
+          "unit_price": 59.99,
           "unit_base": "kg",
-          "store": "SPAR",
-          "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11182244",
+          "store": "Løvbjerg",
+          "dates": "17.07 - 30.07",
+          "link": "https://www.tilbudsugen.dk/single/11204758",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -247,18 +247,6 @@
         },
         {
           "query": "hakket oksekød",
-          "title": "Madværket, Hakket oksekød 14-18%",
-          "size": "1 bk. af 0.40 kg.",
-          "price": 32.0,
-          "unit_price": 80.0,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "12.07 - 18.07",
-          "link": "https://www.tilbudsugen.dk/single/11220769",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
           "title": "Hakket oksekød 14-18%",
           "size": "1 bk. af 1.10 kg.",
           "price": 99.0,
@@ -267,6 +255,18 @@
           "store": "Bilka",
           "dates": "17.07 - 23.07",
           "link": "https://www.tilbudsugen.dk/single/11225874",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
+        },
+        {
+          "query": "hakket oksekød",
+          "title": "Madværket, Hakket oksekød 14-18%",
+          "size": "1 pk. af 0.80 kg.",
+          "price": 72.95,
+          "unit_price": 91.19,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11223605",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -315,30 +315,18 @@
     },
     {
       "query": "sun lolly",
-      "count": 3,
+      "count": 2,
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Appelsin",
-          "size": "1 pk. af 8 stk.",
-          "price": 10.0,
-          "unit_price": 1.25,
-          "unit_base": "stk",
-          "store": "Lidl",
-          "dates": "16.07 - 18.07",
-          "link": "https://www.tilbudsugen.dk/single/11221074",
-          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
-        },
-        {
-          "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Hyldeblomst",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
           "size": "1 pk. af 8 stk.",
           "price": 15.99,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Løvbjerg",
           "dates": "17.07 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11204350",
+          "link": "https://www.tilbudsugen.dk/single/11204351",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
