@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T09:31+02:00",
+  "generated_at": "2026-07-20T10:11+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -175,14 +175,14 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Velsmag, Kyllingeoverlår",
-          "size": "1 pk. af 0.80 kg.",
+          "title": "Madværket, Kyllingeoverlår",
+          "size": "1 bk. af 0.80 kg.",
           "price": 29.95,
           "unit_price": 37.44,
           "unit_base": "kg",
-          "store": "Netto",
-          "dates": "18.07 - 24.07",
-          "link": "https://www.tilbudsugen.dk/single/11216250",
+          "store": "Lidl",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11223762",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -200,7 +200,7 @@
           "unit_base": "kg",
           "store": "SPAR",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11190759",
+          "link": "https://www.tilbudsugen.dk/single/11182244",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -212,7 +212,7 @@
           "unit_base": "kg",
           "store": "Meny",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11206385",
+          "link": "https://www.tilbudsugen.dk/single/11204212",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -277,14 +277,14 @@
       "offers": [
         {
           "query": "scoop",
-          "title": "Scoop, Hindbærsmag Læskedrik",
+          "title": "Scoop, Colafantasi Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 9.99,
           "unit_price": 19.98,
           "unit_base": "l",
           "store": "Løvbjerg",
           "dates": "17.07 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11204313",
+          "link": "https://www.tilbudsugen.dk/single/11204320",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -319,14 +319,14 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, is frys selv - Ananas",
           "size": "1 pk. af 8 stk.",
           "price": 15.99,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Løvbjerg",
           "dates": "17.07 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11204351",
+          "link": "https://www.tilbudsugen.dk/single/11204325",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
