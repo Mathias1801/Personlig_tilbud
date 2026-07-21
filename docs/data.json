@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:11+02:00",
+  "generated_at": "2026-07-21T09:36+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -14,7 +14,7 @@
           "unit_base": "l",
           "store": "Bilka",
           "dates": "17.07 - 23.07",
-          "link": "https://www.tilbudsugen.dk/single/11225888",
+          "link": "https://www.tilbudsugen.dk/single/11233996",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -140,7 +140,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "17.07 - 23.07",
-          "link": "https://www.tilbudsugen.dk/single/11225869",
+          "link": "https://www.tilbudsugen.dk/single/11234141",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -170,19 +170,19 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "17.07 - 23.07",
-          "link": "https://www.tilbudsugen.dk/single/11226023",
+          "link": "https://www.tilbudsugen.dk/single/11234204",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Madværket, Kyllingeoverlår",
-          "size": "1 bk. af 0.80 kg.",
+          "title": "Velsmag, Kyllingeoverlår",
+          "size": "1 pk. af 0.80 kg.",
           "price": 29.95,
           "unit_price": 37.44,
           "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "03.05 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11223762",
+          "store": "Netto",
+          "dates": "18.07 - 24.07",
+          "link": "https://www.tilbudsugen.dk/single/11216250",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -200,7 +200,7 @@
           "unit_base": "kg",
           "store": "SPAR",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11182244",
+          "link": "https://www.tilbudsugen.dk/single/11211882",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -254,7 +254,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "17.07 - 23.07",
-          "link": "https://www.tilbudsugen.dk/single/11225874",
+          "link": "https://www.tilbudsugen.dk/single/11233993",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
