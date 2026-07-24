@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:37+02:00",
+  "generated_at": "2026-07-24T09:37+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -36,9 +36,9 @@
           "price": 12.0,
           "unit_price": 8.0,
           "unit_base": "l",
-          "store": "SPAR",
-          "dates": "17.07 - 23.07",
-          "link": "https://www.tilbudsugen.dk/single/11211818",
+          "store": "SuperBrugsen",
+          "dates": "17.07 - 30.07",
+          "link": "https://www.tilbudsugen.dk/single/11212353",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -187,26 +187,26 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Salling, Kyllingeoverlår",
-          "size": "1 ps. af 1.25 kg.",
-          "price": 35.0,
-          "unit_price": 28.0,
+          "title": "Rema 1000, Kyllingeoverlår",
+          "size": "1 bk. af 0.80 kg.",
+          "price": 29.0,
+          "unit_price": 36.25,
           "unit_base": "kg",
-          "store": "Bilka",
-          "dates": "17.07 - 23.07",
-          "link": "https://www.tilbudsugen.dk/single/11234204",
+          "store": "REMA 1000",
+          "dates": "26.07 - 01.08",
+          "link": "https://www.tilbudsugen.dk/single/11225802",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Velsmag, Kyllingeoverlår",
-          "size": "1 pk. af 0.80 kg.",
+          "title": "Madværket, Kyllingeoverlår",
+          "size": "1 bk. af 0.80 kg.",
           "price": 29.95,
           "unit_price": 37.44,
           "unit_base": "kg",
-          "store": "Netto",
-          "dates": "18.07 - 24.07",
-          "link": "https://www.tilbudsugen.dk/single/11216250",
+          "store": "Lidl",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11223762",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -234,9 +234,9 @@
           "price": 59.95,
           "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "Meny",
+          "store": "SPAR",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11206385",
+          "link": "https://www.tilbudsugen.dk/single/11182244",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -246,9 +246,9 @@
           "price": 59.95,
           "unit_price": 59.95,
           "unit_base": "kg",
-          "store": "SPAR",
+          "store": "Meny",
           "dates": "01.07 - 31.07",
-          "link": "https://www.tilbudsugen.dk/single/11211882",
+          "link": "https://www.tilbudsugen.dk/single/11204212",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -313,14 +313,14 @@
         },
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
           "store": "REMA 1000",
           "dates": "19.07 - 25.07",
-          "link": "https://www.tilbudsugen.dk/single/11224382",
+          "link": "https://www.tilbudsugen.dk/single/11224378",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -339,18 +339,30 @@
     },
     {
       "query": "sun lolly",
-      "count": 2,
+      "count": 3,
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Hindbær",
+          "size": "1 pk. af 8 stk.",
+          "price": 12.0,
+          "unit_price": 1.5,
+          "unit_base": "stk",
+          "store": "REMA 1000",
+          "dates": "26.07 - 01.08",
+          "link": "https://www.tilbudsugen.dk/single/11226379",
+          "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
+        },
+        {
+          "query": "sun lolly",
+          "title": "Sun Lolly, Is frys selv - Sour Green",
           "size": "1 pk. af 8 stk.",
           "price": 15.99,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Løvbjerg",
           "dates": "17.07 - 30.07",
-          "link": "https://www.tilbudsugen.dk/single/11204351",
+          "link": "https://www.tilbudsugen.dk/single/11204352",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
