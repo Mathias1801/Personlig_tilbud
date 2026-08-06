@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:45+02:00",
+  "generated_at": "2026-08-06T09:44+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -12,9 +12,9 @@
           "price": 9.95,
           "unit_price": 6.63,
           "unit_base": "l",
-          "store": "Bilka",
+          "store": "Meny",
           "dates": "31.07 - 06.08",
-          "link": "https://www.tilbudsugen.dk/single/11247968",
+          "link": "https://www.tilbudsugen.dk/single/11228981",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -24,9 +24,9 @@
           "price": 9.95,
           "unit_price": 6.63,
           "unit_base": "l",
-          "store": "Meny",
+          "store": "Bilka",
           "dates": "31.07 - 06.08",
-          "link": "https://www.tilbudsugen.dk/single/11228981",
+          "link": "https://www.tilbudsugen.dk/single/11247968",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -164,7 +164,7 @@
           "unit_base": "kg",
           "store": "SuperBrugsen",
           "dates": "01.08 - 31.08",
-          "link": "https://www.tilbudsugen.dk/single/11238404",
+          "link": "https://www.tilbudsugen.dk/single/11224406",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -199,14 +199,14 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Coop, Kyllingeoverlår",
-          "size": "1 ps. af 1 kg.",
-          "price": 35.0,
-          "unit_price": 35.0,
+          "title": "Rose, Kyllingeoverlår",
+          "size": "1 bk. af 1 kg.",
+          "price": 29.0,
+          "unit_price": 29.0,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
-          "dates": "31.07 - 06.08",
-          "link": "https://www.tilbudsugen.dk/single/11223995",
+          "store": "SPAR",
+          "dates": "07.08 - 13.08",
+          "link": "https://www.tilbudsugen.dk/single/11255256",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -297,7 +297,7 @@
     },
     {
       "query": "scoop",
-      "count": 1,
+      "count": 2,
       "offers": [
         {
           "query": "scoop",
@@ -310,6 +310,18 @@
           "dates": "31.07 - 06.08",
           "link": "https://www.tilbudsugen.dk/single/11248232",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
+        },
+        {
+          "query": "scoop",
+          "title": "Scoop, Hindbærsmag Læskedrik",
+          "size": "1 fl. af 0.50 ltr.",
+          "price": 10.0,
+          "unit_price": 20.0,
+          "unit_base": "l",
+          "store": "SPAR",
+          "dates": "07.08 - 13.08",
+          "link": "https://www.tilbudsugen.dk/single/11255419",
+          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
     },
@@ -319,26 +331,26 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Hindbær",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Meny",
           "dates": "31.07 - 06.08",
-          "link": "https://www.tilbudsugen.dk/single/11229644",
+          "link": "https://www.tilbudsugen.dk/single/11229646",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Cola",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "SPAR",
           "dates": "31.07 - 06.08",
-          "link": "https://www.tilbudsugen.dk/single/11230345",
+          "link": "https://www.tilbudsugen.dk/single/11230343",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
