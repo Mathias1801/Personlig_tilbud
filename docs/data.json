@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:12+02:00",
+  "generated_at": "2026-08-08T07:47+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,14 +19,14 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lime, Cola",
+          "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 11.99,
           "unit_price": 7.99,
           "unit_base": "l",
           "store": "Løvbjerg",
           "dates": "07.08 - 13.08",
-          "link": "https://www.tilbudsugen.dk/single/11217494",
+          "link": "https://www.tilbudsugen.dk/single/11217491",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -38,7 +38,7 @@
           "unit_base": "l",
           "store": "Bilka",
           "dates": "07.08 - 13.08",
-          "link": "https://www.tilbudsugen.dk/single/11256522",
+          "link": "https://www.tilbudsugen.dk/single/11260635",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -86,7 +86,7 @@
           "unit_base": "l",
           "store": "Bilka",
           "dates": "07.08 - 13.08",
-          "link": "https://www.tilbudsugen.dk/single/11257346",
+          "link": "https://www.tilbudsugen.dk/single/11260437",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
@@ -140,7 +140,7 @@
           "unit_base": "kg",
           "store": "SuperBrugsen",
           "dates": "01.08 - 31.08",
-          "link": "https://www.tilbudsugen.dk/single/11224406",
+          "link": "https://www.tilbudsugen.dk/single/11238404",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -271,14 +271,14 @@
         },
         {
           "query": "hakket oksekød",
-          "title": "Velsmag, Hakket oksekød 8-12%",
-          "size": "1 ps. af 0.40 kg.",
+          "title": "Rema 1000, Hakket oksekød 8-12%",
+          "size": "1 bk. af 0.40 kg.",
           "price": 39.95,
           "unit_price": 99.88,
           "unit_base": "kg",
-          "store": "Netto",
-          "dates": "08.08 - 14.08",
-          "link": "https://www.tilbudsugen.dk/single/11257885",
+          "store": "REMA 1000",
+          "dates": "09.08 - 15.08",
+          "link": "https://www.tilbudsugen.dk/single/11256010",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -307,14 +307,14 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Hindbær",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Netto",
           "dates": "08.08 - 14.08",
-          "link": "https://www.tilbudsugen.dk/single/11258321",
+          "link": "https://www.tilbudsugen.dk/single/11258323",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
@@ -354,9 +354,9 @@
           "price": 25.0,
           "unit_price": 2.5,
           "unit_base": "stk",
-          "store": "Netto",
-          "dates": "01.08 - 07.08",
-          "link": "https://www.tilbudsugen.dk/single/11238284",
+          "store": "Meny",
+          "dates": "07.08 - 13.08",
+          "link": "https://www.tilbudsugen.dk/single/11244546",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         }
       ]
