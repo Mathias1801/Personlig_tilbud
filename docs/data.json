@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T08:14+02:00",
+  "generated_at": "2026-08-11T07:57+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -21,24 +21,24 @@
           "query": "pepsi max",
           "title": "Pepsi Max, Cola 24 pk.",
           "size": "24 ds. af 0.33 ltr.",
-          "price": 69.0,
-          "unit_price": 8.71,
+          "price": 65.0,
+          "unit_price": 8.21,
           "unit_base": "l",
-          "store": "Bilka",
-          "dates": "07.08 - 13.08",
-          "link": "https://www.tilbudsugen.dk/single/11260635",
+          "store": "Lidl",
+          "dates": "13.08 - 15.08",
+          "link": "https://www.tilbudsugen.dk/single/11259970",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
           "title": "Pepsi Max, Cola 24 pk.",
           "size": "24 ds. af 0.33 ltr.",
-          "price": 85.0,
-          "unit_price": 10.73,
+          "price": 69.0,
+          "unit_price": 8.71,
           "unit_base": "l",
-          "store": "SuperBrugsen",
+          "store": "Bilka",
           "dates": "07.08 - 13.08",
-          "link": "https://www.tilbudsugen.dk/single/11238582",
+          "link": "https://www.tilbudsugen.dk/single/11260635",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
