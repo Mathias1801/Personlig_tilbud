@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:33+02:00",
+  "generated_at": "2026-08-17T07:40+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,14 +19,14 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola 24 pk.",
+          "title": "Pepsi Max Lemon, Cola 24 pk.",
           "size": "24 ds. af 0.33 ltr.",
           "price": 69.99,
           "unit_price": 8.84,
           "unit_base": "l",
           "store": "Løvbjerg",
           "dates": "14.08 - 20.08",
-          "link": "https://www.tilbudsugen.dk/single/11228290",
+          "link": "https://www.tilbudsugen.dk/single/11228295",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -140,7 +140,7 @@
           "unit_base": "kg",
           "store": "Dagli'Brugsen",
           "dates": "01.08 - 31.08",
-          "link": "https://www.tilbudsugen.dk/single/11266496",
+          "link": "https://www.tilbudsugen.dk/single/11246453",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -152,7 +152,7 @@
           "unit_base": "kg",
           "store": "SuperBrugsen",
           "dates": "01.08 - 31.08",
-          "link": "https://www.tilbudsugen.dk/single/11224406",
+          "link": "https://www.tilbudsugen.dk/single/11238404",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -289,14 +289,14 @@
       "offers": [
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
           "store": "SuperBrugsen",
           "dates": "14.08 - 20.08",
-          "link": "https://www.tilbudsugen.dk/single/11263397",
+          "link": "https://www.tilbudsugen.dk/single/11263398",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
