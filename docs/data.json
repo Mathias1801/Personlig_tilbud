@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:38+02:00",
+  "generated_at": "2026-08-22T07:33+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -7,26 +7,26 @@
       "offers": [
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lime, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 12.99,
           "unit_price": 8.66,
           "unit_base": "l",
           "store": "Løvbjerg",
           "dates": "21.08 - 27.08",
-          "link": "https://www.tilbudsugen.dk/single/11275423",
+          "link": "https://www.tilbudsugen.dk/single/11275425",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lime, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 15.0,
           "unit_price": 10.0,
           "unit_base": "l",
           "store": "REMA 1000",
           "dates": "16.08 - 22.08",
-          "link": "https://www.tilbudsugen.dk/single/11268330",
+          "link": "https://www.tilbudsugen.dk/single/11268347",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -36,16 +36,16 @@
           "price": 85.0,
           "unit_price": 10.73,
           "unit_base": "l",
-          "store": "Dagli'Brugsen",
-          "dates": "14.08 - 27.08",
-          "link": "https://www.tilbudsugen.dk/single/11266639",
+          "store": "SuperBrugsen",
+          "dates": "21.08 - 27.08",
+          "link": "https://www.tilbudsugen.dk/single/11274410",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
     },
     {
       "query": "cheasy vanilje skyr",
-      "count": 2,
+      "count": 3,
       "offers": [
         {
           "query": "cheasy vanilje skyr",
@@ -66,6 +66,18 @@
           "price": 25.0,
           "unit_price": 25.0,
           "unit_base": "kg",
+          "store": "Netto",
+          "dates": "22.08 - 28.08",
+          "link": "https://www.tilbudsugen.dk/single/11278019",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        },
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 1 kg.",
+          "price": 25.0,
+          "unit_price": 25.0,
+          "unit_base": "kg",
           "store": "SPAR",
           "dates": "21.08 - 27.08",
           "link": "https://www.tilbudsugen.dk/single/11261052",
@@ -77,6 +89,18 @@
       "query": "skyllemiddel",
       "count": 3,
       "offers": [
+        {
+          "query": "dun-let",
+          "title": "Dun-let, Skyllemiddel",
+          "size": "1 stk. af 2 ltr.",
+          "price": 39.0,
+          "unit_price": 19.5,
+          "unit_base": "l",
+          "store": "Netto",
+          "dates": "22.08 - 28.08",
+          "link": "https://www.tilbudsugen.dk/single/11278091",
+          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
+        },
         {
           "query": "bamseline",
           "title": "Bamseline, Skyllemiddel",
@@ -100,18 +124,6 @@
           "dates": "21.08 - 27.08",
           "link": "https://www.tilbudsugen.dk/single/11272450",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
-        },
-        {
-          "query": "bamseline",
-          "title": "Bamseline, Skyllemiddel",
-          "size": "1 stk. af 0.93 ltr.",
-          "price": 25.0,
-          "unit_price": 27.03,
-          "unit_base": "l",
-          "store": "Føtex",
-          "dates": "14.08 - 27.08",
-          "link": "https://www.tilbudsugen.dk/single/11263085",
-          "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         }
       ]
     },
@@ -152,7 +164,7 @@
           "unit_base": "kg",
           "store": "Dagli'Brugsen",
           "dates": "01.08 - 31.08",
-          "link": "https://www.tilbudsugen.dk/single/11246453",
+          "link": "https://www.tilbudsugen.dk/single/11266496",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -224,7 +236,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "16.08 - 22.08",
-          "link": "https://www.tilbudsugen.dk/single/11271913",
+          "link": "https://www.tilbudsugen.dk/single/11279825",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -285,8 +297,20 @@
     },
     {
       "query": "scoop",
-      "count": 1,
+      "count": 2,
       "offers": [
+        {
+          "query": "scoop",
+          "title": "Scoop, Hindbærsmag Læskedrik",
+          "size": "1 fl. af 0.50 ltr.",
+          "price": 8.0,
+          "unit_price": 16.0,
+          "unit_base": "l",
+          "store": "Netto",
+          "dates": "22.08 - 28.08",
+          "link": "https://www.tilbudsugen.dk/single/11278211",
+          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
+        },
         {
           "query": "scoop",
           "title": "Scoop, Hindbærsmag Læskedrik",
@@ -307,26 +331,26 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Jordbær",
+          "title": "Sun Lolly, Is frys selv - Cola",
           "size": "1 pk. af 8 stk.",
           "price": 15.0,
           "unit_price": 1.88,
           "unit_base": "stk",
           "store": "REMA 1000",
           "dates": "16.08 - 22.08",
-          "link": "https://www.tilbudsugen.dk/single/11268324",
+          "link": "https://www.tilbudsugen.dk/single/11268322",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         },
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Hindbær",
           "size": "1 pk. af 8 stk.",
           "price": 15.99,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Løvbjerg",
           "dates": "21.08 - 27.08",
-          "link": "https://www.tilbudsugen.dk/single/11276683",
+          "link": "https://www.tilbudsugen.dk/single/11276684",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
@@ -344,7 +368,7 @@
           "unit_base": "stk",
           "store": "Lidl",
           "dates": "23.08 - 29.08",
-          "link": "https://www.tilbudsugen.dk/single/11277468",
+          "link": "https://www.tilbudsugen.dk/single/11279178",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         },
         {
