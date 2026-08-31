@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:25+02:00",
+  "generated_at": "2026-08-31T13:30+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -140,7 +140,7 @@
           "unit_base": "kg",
           "store": "SuperBrugsen",
           "dates": "01.08 - 31.08",
-          "link": "https://www.tilbudsugen.dk/single/11263593",
+          "link": "https://www.tilbudsugen.dk/single/11274597",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -152,7 +152,7 @@
           "unit_base": "kg",
           "store": "Dagli'Brugsen",
           "dates": "01.08 - 31.08",
-          "link": "https://www.tilbudsugen.dk/single/11266496",
+          "link": "https://www.tilbudsugen.dk/single/11246453",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -194,7 +194,7 @@
           "unit_base": "kg",
           "store": "SuperBrugsen",
           "dates": "28.08 - 03.09",
-          "link": "https://www.tilbudsugen.dk/single/11283124",
+          "link": "https://www.tilbudsugen.dk/single/11283122",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -294,14 +294,14 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Hindbær",
+          "title": "Sun Lolly, Is frys selv - Vindrue",
           "size": "1 pk. af 8 stk.",
           "price": 16.0,
           "unit_price": 2.0,
           "unit_base": "stk",
           "store": "Meny",
           "dates": "28.08 - 03.09",
-          "link": "https://www.tilbudsugen.dk/single/11284386",
+          "link": "https://www.tilbudsugen.dk/single/11284377",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
