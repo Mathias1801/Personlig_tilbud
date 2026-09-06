@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:54+02:00",
+  "generated_at": "2026-09-06T11:15+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,26 +19,26 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lemon, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 11.0,
           "unit_price": 7.33,
           "unit_base": "l",
           "store": "SuperBrugsen",
           "dates": "04.09 - 10.09",
-          "link": "https://www.tilbudsugen.dk/single/11293437",
+          "link": "https://www.tilbudsugen.dk/single/11293438",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lime, Cola",
+          "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 12.0,
           "unit_price": 8.0,
           "unit_base": "l",
           "store": "REMA 1000",
           "dates": "06.09 - 12.09",
-          "link": "https://www.tilbudsugen.dk/single/11300279",
+          "link": "https://www.tilbudsugen.dk/single/11300278",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -63,24 +63,24 @@
           "query": "cheasy vanilje skyr",
           "title": "Cheasy, Vanilje Skyr",
           "size": "1 bg. af 1 kg.",
-          "price": 22.0,
-          "unit_price": 22.0,
-          "unit_base": "kg",
-          "store": "REMA 1000",
-          "dates": "30.08 - 05.09",
-          "link": "https://www.tilbudsugen.dk/single/11289023",
-          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
-        },
-        {
-          "query": "cheasy vanilje skyr",
-          "title": "Cheasy, Vanilje Skyr",
-          "size": "1 bg. af 1 kg.",
           "price": 24.0,
           "unit_price": 24.0,
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "04.09 - 10.09",
           "link": "https://www.tilbudsugen.dk/single/11301758",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        },
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 0.18 kg.",
+          "price": 7.99,
+          "unit_price": 44.39,
+          "unit_base": "kg",
+          "store": "Løvbjerg",
+          "dates": "04.09 - 10.09",
+          "link": "https://www.tilbudsugen.dk/single/11295369",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         }
       ]
@@ -236,7 +236,7 @@
           "unit_base": "kg",
           "store": "Netto",
           "dates": "05.09 - 11.09",
-          "link": "https://www.tilbudsugen.dk/single/11299757",
+          "link": "https://www.tilbudsugen.dk/single/11299831",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -271,18 +271,6 @@
         },
         {
           "query": "hakket oksekød",
-          "title": "Madværket, Hakket oksekød 14-18%",
-          "size": "1 pk. af 0.35 kg.",
-          "price": 25.0,
-          "unit_price": 71.43,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "30.08 - 05.09",
-          "link": "https://www.tilbudsugen.dk/single/11301188",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
           "title": "Hakket oksekød 14-18%",
           "size": "1 bk. af 1.90 kg.",
           "price": 159.0,
@@ -291,6 +279,18 @@
           "store": "Bilka",
           "dates": "04.09 - 10.09",
           "link": "https://www.tilbudsugen.dk/single/11301689",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
+        },
+        {
+          "query": "hakket oksekød",
+          "title": "Himmerlandskød, Hakket oksekød 14-18%",
+          "size": "1 bk. af 0.65 kg.",
+          "price": 55.0,
+          "unit_price": 84.62,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "06.09 - 12.09",
+          "link": "https://www.tilbudsugen.dk/single/11300630",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -308,7 +308,7 @@
           "unit_base": "l",
           "store": "SPAR",
           "dates": "04.09 - 10.09",
-          "link": "https://www.tilbudsugen.dk/single/11298867",
+          "link": "https://www.tilbudsugen.dk/single/11298869",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
