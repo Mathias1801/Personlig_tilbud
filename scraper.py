@@ -1,8 +1,12 @@
 import re
 import time
+from datetime import date, datetime
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
+
+CPH = ZoneInfo("Europe/Copenhagen")
 
 HEADERS = {
     "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -27,6 +31,31 @@ def _norm_unit(u: str) -> str:
     u = (u or "").lower().rstrip(".")
     return {"ltr": "l", "liter": "l"}.get(u, u)
 
+def _is_active(date_str: str | None, today: date) -> bool:
+    """Er tilbuddets gyldighedsperiode ('dd.mm - dd.mm', uden årstal) aktiv i dag?
+    Ingen dato-info => vi ved det ikke, så tilbuddet beholdes."""
+    if not date_str:
+        return True
+    m = re.match(r'(\d{2})\.(\d{2})\s*-\s*(\d{2})\.(\d{2})', date_str)
+    if not m:
+        return True
+    d1, mo1, d2, mo2 = (int(x) for x in m.groups())
+    for offset in (-1, 0, 1):
+        year = today.year + offset
+        try:
+            start = date(year, mo1, d1)
+        except ValueError:
+            continue
+        end_year = year + (1 if (mo2, d2) < (mo1, d1) else 0)
+        try:
+            end = date(end_year, mo2, d2)
+        except ValueError:
+            continue
+        if start <= today <= end:
+            return True
+    return False
+
+
 def _matches_query(title: str, query: str) -> bool:
     if not title:
         return False
@@ -37,6 +66,7 @@ def _matches_query(title: str, query: str) -> bool:
     return all(tok in title_l for tok in tokens)
 
 def search(query: str, delay: float = 2.0) -> list[dict]:
+    today = datetime.now(CPH).date()
     search_link = f"https://www.tilbudsugen.dk/offer/{query.replace(' ', '+')}"
     r = requests.get(search_link, headers=HEADERS, timeout=20)
     r.raise_for_status()
@@ -80,6 +110,9 @@ def search(query: str, delay: float = 2.0) -> list[dict]:
         size_m = SIZE_RE.search(text)
         dates = DATE_RE.findall(text)
         unit_m = UNITPRICE_RE.search(text)
+
+        if dates and not _is_active(dates[0], today):
+            continue
 
         offers.append({
             "query": query,
