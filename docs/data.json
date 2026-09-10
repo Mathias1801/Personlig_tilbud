@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:31+02:00",
+  "generated_at": "2026-09-10T11:31+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -21,24 +21,24 @@
           "query": "pepsi max",
           "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
-          "price": 11.0,
-          "unit_price": 7.33,
+          "price": 10.0,
+          "unit_price": 6.67,
           "unit_base": "l",
-          "store": "SuperBrugsen",
-          "dates": "04.09 - 10.09",
-          "link": "https://www.tilbudsugen.dk/single/11293437",
+          "store": "Lidl",
+          "dates": "10.09 - 12.09",
+          "link": "https://www.tilbudsugen.dk/single/11305968",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lemon, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 11.0,
           "unit_price": 7.33,
           "unit_base": "l",
           "store": "Kvickly",
           "dates": "04.09 - 10.09",
-          "link": "https://www.tilbudsugen.dk/single/11294831",
+          "link": "https://www.tilbudsugen.dk/single/11294832",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -236,7 +236,7 @@
           "unit_base": "kg",
           "store": "Netto",
           "dates": "05.09 - 11.09",
-          "link": "https://www.tilbudsugen.dk/single/11299831",
+          "link": "https://www.tilbudsugen.dk/single/11299757",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -318,9 +318,9 @@
           "price": 15.0,
           "unit_price": 30.0,
           "unit_base": "l",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "04.09 - 10.09",
-          "link": "https://www.tilbudsugen.dk/single/11294759",
+          "link": "https://www.tilbudsugen.dk/single/11294447",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -330,9 +330,9 @@
           "price": 15.0,
           "unit_price": 30.0,
           "unit_base": "l",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "04.09 - 10.09",
-          "link": "https://www.tilbudsugen.dk/single/11294447",
+          "link": "https://www.tilbudsugen.dk/single/11294759",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
