@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:09+02:00",
+  "generated_at": "2026-09-13T12:06+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -19,26 +19,26 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
+          "title": "Pepsi Max, Cola 24 pk.",
+          "size": "24 ds. af 0.33 ltr.",
+          "price": 69.99,
+          "unit_price": 8.84,
           "unit_base": "l",
-          "store": "Lidl",
-          "dates": "10.09 - 12.09",
-          "link": "https://www.tilbudsugen.dk/single/11305968",
+          "store": "Løvbjerg",
+          "dates": "11.09 - 17.09",
+          "link": "https://www.tilbudsugen.dk/single/11306718",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
           "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 12.0,
-          "unit_price": 8.0,
+          "size": "1 fl. af 2 ltr.",
+          "price": 18.0,
+          "unit_price": 9.0,
           "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "06.09 - 12.09",
-          "link": "https://www.tilbudsugen.dk/single/11300278",
+          "store": "Netto",
+          "dates": "12.09 - 18.09",
+          "link": "https://www.tilbudsugen.dk/single/11310140",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -52,18 +52,6 @@
       "query": "skyllemiddel",
       "count": 3,
       "offers": [
-        {
-          "query": "dun-let",
-          "title": "Dun-let, Skyllemiddel",
-          "size": "1 stk. af 2 ltr.",
-          "price": 39.0,
-          "unit_price": 19.5,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "06.09 - 12.09",
-          "link": "https://www.tilbudsugen.dk/single/11300509",
-          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
-        },
         {
           "query": "dun-let",
           "title": "Dun-let, Skyllemiddel",
@@ -87,6 +75,18 @@
           "dates": "11.09 - 17.09",
           "link": "https://www.tilbudsugen.dk/single/11306798",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
+        },
+        {
+          "query": "dun-let",
+          "title": "Dun-let, Skyllemiddel",
+          "size": "1 stk. af 2 ltr.",
+          "price": 45.0,
+          "unit_price": 22.5,
+          "unit_base": "l",
+          "store": "Lidl",
+          "dates": "13.09 - 19.09",
+          "link": "https://www.tilbudsugen.dk/single/11314906",
+          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11314153",
+          "link": "https://www.tilbudsugen.dk/single/11317194",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -120,14 +120,14 @@
         },
         {
           "query": "kyllingebryst",
-          "title": "Rose, Kyllingebrystfilet",
-          "size": "1 bk. af 1 kg.",
-          "price": 79.0,
-          "unit_price": 79.0,
+          "title": "Rema 1000, Kyllingebrystfilet",
+          "size": "1 bk. af 0.65 kg.",
+          "price": 49.0,
+          "unit_price": 75.38,
           "unit_base": "kg",
-          "store": "Kvickly",
-          "dates": "01.09 - 30.09",
-          "link": "https://www.tilbudsugen.dk/single/11303153",
+          "store": "REMA 1000",
+          "dates": "13.09 - 19.09",
+          "link": "https://www.tilbudsugen.dk/single/11317788",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -150,26 +150,26 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Madværket, Kyllingeoverlår",
+          "title": "Rema 1000, Kyllingeoverlår",
           "size": "1 bk. af 0.40 kg.",
           "price": 12.0,
           "unit_price": 30.0,
           "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "06.09 - 12.09",
-          "link": "https://www.tilbudsugen.dk/single/11305689",
+          "store": "REMA 1000",
+          "dates": "13.09 - 19.09",
+          "link": "https://www.tilbudsugen.dk/single/11317789",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Rose, Kyllingeoverlår",
-          "size": "1 bk. af 1 kg.",
-          "price": 39.0,
-          "unit_price": 39.0,
+          "title": "Madværket, Kyllingeoverlår",
+          "size": "1 bk. af 0.80 kg.",
+          "price": 29.95,
+          "unit_price": 37.44,
           "unit_base": "kg",
-          "store": "SPAR",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11305027",
+          "store": "Lidl",
+          "dates": "03.05 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11304120",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -192,6 +192,18 @@
         },
         {
           "query": "hakket kylling",
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 0.70 kg.",
+          "price": 39.0,
+          "unit_price": 55.71,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "13.09 - 19.09",
+          "link": "https://www.tilbudsugen.dk/single/11314558",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
           "title": "Danpo, Hakket kylling 3-7%",
           "size": "1 bk. af 1 kg.",
           "price": 59.0,
@@ -200,18 +212,6 @@
           "store": "Føtex",
           "dates": "11.09 - 17.09",
           "link": "https://www.tilbudsugen.dk/single/11309235",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
-        },
-        {
-          "query": "hakket kylling",
-          "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 1 kg.",
-          "price": 69.99,
-          "unit_price": 69.99,
-          "unit_base": "kg",
-          "store": "Løvbjerg",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11306603",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -222,14 +222,14 @@
       "offers": [
         {
           "query": "hakket oksekød",
-          "title": "Himmerlandskød, Hakket oksekød 14-18%",
-          "size": "1 bk. af 0.65 kg.",
-          "price": 55.0,
-          "unit_price": 84.62,
+          "title": "Madværket, Hakket oksekød 14-18%",
+          "size": "1 pk. af 1.50 kg.",
+          "price": 129.0,
+          "unit_price": 86.0,
           "unit_base": "kg",
           "store": "Lidl",
-          "dates": "06.09 - 12.09",
-          "link": "https://www.tilbudsugen.dk/single/11305692",
+          "dates": "13.09 - 19.09",
+          "link": "https://www.tilbudsugen.dk/single/11314557",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -253,7 +253,7 @@
           "unit_base": "kg",
           "store": "Bilka",
           "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11314331",
+          "link": "https://www.tilbudsugen.dk/single/11317366",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
