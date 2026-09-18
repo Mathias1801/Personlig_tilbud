@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:55+02:00",
+  "generated_at": "2026-09-18T11:33+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -9,12 +9,12 @@
           "query": "pepsi max",
           "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
-          "price": 9.95,
-          "unit_price": 6.63,
+          "price": 10.0,
+          "unit_price": 6.67,
           "unit_base": "l",
-          "store": "Meny",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11306096",
+          "store": "Føtex",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11320006",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -31,51 +31,40 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola 24 pk.",
+          "title": "Pepsi Max Lime, Cola 24 pk.",
           "size": "24 ds. af 0.33 ltr.",
-          "price": 69.99,
-          "unit_price": 8.84,
+          "price": 69.0,
+          "unit_price": 8.71,
           "unit_base": "l",
-          "store": "Løvbjerg",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11306718",
+          "store": "SPAR",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11308324",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
     },
     {
       "query": "cheasy vanilje skyr",
-      "count": 0,
-      "offers": []
+      "count": 1,
+      "offers": [
+        {
+          "query": "cheasy vanilje skyr",
+          "title": "Cheasy, Vanilje Skyr",
+          "size": "1 bg. af 1 kg.",
+          "price": 25.0,
+          "unit_price": 25.0,
+          "unit_base": "kg",
+          "store": "Føtex",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11320487",
+          "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
+        }
+      ]
     },
     {
       "query": "skyllemiddel",
       "count": 3,
       "offers": [
-        {
-          "query": "dun-let",
-          "title": "Dun-let, Skyllemiddel",
-          "size": "1 stk. af 1 ltr.",
-          "price": 20.0,
-          "unit_price": 20.0,
-          "unit_base": "l",
-          "store": "SPAR",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11305286",
-          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
-        },
-        {
-          "query": "dun-let",
-          "title": "Dun-let, Skyllemiddel",
-          "size": "1 stk. af 1 ltr.",
-          "price": 21.99,
-          "unit_price": 21.99,
-          "unit_base": "l",
-          "store": "Løvbjerg",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11306798",
-          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
-        },
         {
           "query": "dun-let",
           "title": "Dun-let, Skyllemiddel",
@@ -87,6 +76,30 @@
           "dates": "13.09 - 19.09",
           "link": "https://www.tilbudsugen.dk/single/11324460",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
+        },
+        {
+          "query": "dun-let",
+          "title": "Dun-let, Skyllemiddel",
+          "size": "1 stk. af 0.85 ltr.",
+          "price": 20.0,
+          "unit_price": 23.53,
+          "unit_base": "l",
+          "store": "Føtex",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11320441",
+          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
+        },
+        {
+          "query": "bamseline",
+          "title": "Bamseline, Skyllemiddel",
+          "size": "1 stk. af 0.93 ltr.",
+          "price": 22.99,
+          "unit_price": 24.85,
+          "unit_base": "l",
+          "store": "Løvbjerg",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11316113",
+          "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         }
       ]
     },
@@ -114,20 +127,20 @@
           "unit_price": 70.42,
           "unit_base": "kg",
           "store": "Bilka",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11317192",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11323199",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
           "query": "kyllingebryst",
-          "title": "Rema 1000, Kyllingebrystfilet",
-          "size": "1 bk. af 0.65 kg.",
-          "price": 49.0,
-          "unit_price": 75.38,
+          "title": "Xtra, Kyllingebrystfilet",
+          "size": "1 bk. af 0.45 kg.",
+          "price": 32.0,
+          "unit_price": 71.11,
           "unit_base": "kg",
-          "store": "REMA 1000",
-          "dates": "13.09 - 19.09",
-          "link": "https://www.tilbudsugen.dk/single/11317788",
+          "store": "SuperBrugsen",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11315671",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -136,18 +149,6 @@
       "query": "kyllingeoverlår",
       "count": 3,
       "offers": [
-        {
-          "query": "kyllingeoverlår",
-          "title": "Rose, Kyllingeoverlår",
-          "size": "1 ps. af 1 kg.",
-          "price": 24.99,
-          "unit_price": 24.99,
-          "unit_base": "kg",
-          "store": "Løvbjerg",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11306969",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        },
         {
           "query": "kyllingeoverlår",
           "title": "Rema 1000, Kyllingeoverlår",
@@ -171,6 +172,18 @@
           "dates": "13.09 - 31.12",
           "link": "https://www.tilbudsugen.dk/single/11324304",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
+        },
+        {
+          "query": "kyllingeoverlår",
+          "title": "Kyllingeoverlår",
+          "size": "1 bk. af 1.20 kg.",
+          "price": 89.0,
+          "unit_price": 74.17,
+          "unit_base": "kg",
+          "store": "Bilka",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11323280",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
     },
@@ -180,38 +193,38 @@
       "offers": [
         {
           "query": "hakket kylling",
-          "title": "Danpo, Hakket kylling 3-7%",
-          "size": "1 bk. af 0.45 kg.",
-          "price": 25.0,
-          "unit_price": 55.56,
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 1 kg.",
+          "price": 39.0,
+          "unit_price": 39.0,
           "unit_base": "kg",
-          "store": "Netto",
-          "dates": "12.09 - 18.09",
-          "link": "https://www.tilbudsugen.dk/single/11309775",
+          "store": "Føtex",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11320220",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
           "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 0.70 kg.",
-          "price": 39.0,
-          "unit_price": 55.71,
+          "size": "1 bk. af 1 kg.",
+          "price": 49.0,
+          "unit_price": 49.0,
           "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "13.09 - 19.09",
-          "link": "https://www.tilbudsugen.dk/single/11324409",
+          "store": "Kvickly",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11315843",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
           "query": "hakket kylling",
-          "title": "Danpo, Hakket kylling 3-7%",
+          "title": "Rose, Hakket kylling 7-10%",
           "size": "1 bk. af 1 kg.",
-          "price": 59.0,
-          "unit_price": 59.0,
+          "price": 49.0,
+          "unit_price": 49.0,
           "unit_base": "kg",
-          "store": "Føtex",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11309235",
+          "store": "SuperBrugsen",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11315189",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -220,6 +233,30 @@
       "query": "hakket oksekød",
       "count": 3,
       "offers": [
+        {
+          "query": "hakket oksekød",
+          "title": "Gestus, Hakket oksekød 7-10%",
+          "size": "1 bk. af 0.70 kg.",
+          "price": 39.99,
+          "unit_price": 57.13,
+          "unit_base": "kg",
+          "store": "Løvbjerg",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11315661",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
+        },
+        {
+          "query": "hakket oksekød",
+          "title": "Hakket oksekød 14-18%",
+          "size": "1 bk. af 0.70 kg.",
+          "price": 49.0,
+          "unit_price": 70.0,
+          "unit_base": "kg",
+          "store": "Føtex",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11319985",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
+        },
         {
           "query": "hakket oksekød",
           "title": "Madværket, Hakket oksekød 14-18%",
@@ -231,36 +268,12 @@
           "dates": "13.09 - 19.09",
           "link": "https://www.tilbudsugen.dk/single/11324408",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
-          "title": "Hakket oksekød 15-20%",
-          "size": "1 bk. af 1 kg.",
-          "price": 89.99,
-          "unit_price": 89.99,
-          "unit_base": "kg",
-          "store": "Løvbjerg",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11306634",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
-          "title": "Hakket oksekød 8-12%",
-          "size": "1 bk. af 1.30 kg.",
-          "price": 125.0,
-          "unit_price": 96.15,
-          "unit_base": "kg",
-          "store": "Bilka",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11317366",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
     },
     {
       "query": "scoop",
-      "count": 3,
+      "count": 2,
       "offers": [
         {
           "query": "scoop",
@@ -272,18 +285,6 @@
           "store": "Lidl",
           "dates": "17.09 - 19.09",
           "link": "https://www.tilbudsugen.dk/single/11324566",
-          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
-        },
-        {
-          "query": "scoop",
-          "title": "Scoop, Hindbærsmag Læskedrik",
-          "size": "1 fl. af 0.50 ltr.",
-          "price": 8.99,
-          "unit_price": 17.98,
-          "unit_base": "l",
-          "store": "Løvbjerg",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11307135",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -313,36 +314,36 @@
           "query": "vaskemiddel",
           "title": "A+, Vaskemiddel-tabs",
           "size": "1 pk. af 10 stk.",
-          "price": 24.99,
-          "unit_price": 2.5,
-          "unit_base": "stk",
-          "store": "Løvbjerg",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11306787",
-          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
-        },
-        {
-          "query": "vaskemiddel",
-          "title": "A+, Vaskemiddel-tabs",
-          "size": "1 pk. af 20 stk.",
-          "price": 50.0,
-          "unit_price": 2.5,
-          "unit_base": "stk",
-          "store": "Bilka",
-          "dates": "11.09 - 17.09",
-          "link": "https://www.tilbudsugen.dk/single/11317395",
-          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
-        },
-        {
-          "query": "vaskemiddel",
-          "title": "A+, Vaskemiddel-tabs",
-          "size": "1 pk. af 10 stk.",
           "price": 25.0,
           "unit_price": 2.5,
           "unit_base": "stk",
           "store": "Netto",
           "dates": "12.09 - 18.09",
           "link": "https://www.tilbudsugen.dk/single/11310286",
+          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
+        },
+        {
+          "query": "vaskemiddel",
+          "title": "A+, Vaskemiddel-tabs",
+          "size": "1 pk. af 10 stk.",
+          "price": 27.0,
+          "unit_price": 2.7,
+          "unit_base": "stk",
+          "store": "Føtex",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11320428",
+          "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
+        },
+        {
+          "query": "vaskemiddel",
+          "title": "Formil, Vaskemiddel-flydende",
+          "size": "1 stk. af 3 ltr.",
+          "price": 44.95,
+          "unit_price": 14.98,
+          "unit_base": "l",
+          "store": "Lidl",
+          "dates": "13.09 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11323965",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         }
       ]
