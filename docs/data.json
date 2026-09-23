@@ -1,22 +1,10 @@
 {
-  "generated_at": "2026-09-22T11:46+02:00",
+  "generated_at": "2026-09-23T11:51+02:00",
   "products": [
     {
       "query": "pepsi max",
       "count": 3,
       "offers": [
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
-          "unit_base": "l",
-          "store": "Netto",
-          "dates": "19.09 - 25.09",
-          "link": "https://www.tilbudsugen.dk/single/11320795",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
         {
           "query": "pepsi max",
           "title": "Pepsi Max, Cola",
@@ -31,14 +19,26 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lime, Cola 24 pk.",
+          "title": "Pepsi Max, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 10.0,
+          "unit_price": 6.67,
+          "unit_base": "l",
+          "store": "Netto",
+          "dates": "19.09 - 25.09",
+          "link": "https://www.tilbudsugen.dk/single/11320795",
+          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
+        },
+        {
+          "query": "pepsi max",
+          "title": "Pepsi Max, Cola 24 pk.",
           "size": "24 ds. af 0.33 ltr.",
           "price": 69.0,
           "unit_price": 8.71,
           "unit_base": "l",
           "store": "SPAR",
           "dates": "18.09 - 24.09",
-          "link": "https://www.tilbudsugen.dk/single/11308324",
+          "link": "https://www.tilbudsugen.dk/single/11308322",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -182,7 +182,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "13.09 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11329617",
+          "link": "https://www.tilbudsugen.dk/single/11331554",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
@@ -234,9 +234,9 @@
           "price": 49.0,
           "unit_price": 49.0,
           "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "20.09 - 26.09",
-          "link": "https://www.tilbudsugen.dk/single/11327513",
+          "store": "SuperBrugsen",
+          "dates": "18.09 - 24.09",
+          "link": "https://www.tilbudsugen.dk/single/11315189",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -330,8 +330,8 @@
           "unit_price": 14.98,
           "unit_base": "l",
           "store": "Lidl",
-          "dates": "20.09 - 26.09",
-          "link": "https://www.tilbudsugen.dk/single/11327273",
+          "dates": "13.09 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11331244",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         },
         {
