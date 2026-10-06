@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T14:10+02:00",
+  "generated_at": "2026-10-06T13:54+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -78,9 +78,9 @@
           "price": 25.0,
           "unit_price": 25.0,
           "unit_base": "kg",
-          "store": "Netto",
-          "dates": "03.10 - 09.10",
-          "link": "https://www.tilbudsugen.dk/single/11349259",
+          "store": "Meny",
+          "dates": "02.10 - 08.10",
+          "link": "https://www.tilbudsugen.dk/single/11346194",
           "search_link": "https://www.tilbudsugen.dk/offer/cheasy+vanilje+skyr"
         }
       ]
@@ -217,18 +217,6 @@
       "offers": [
         {
           "query": "hakket kylling",
-          "title": "Danpo, Hakket kylling 3-7%",
-          "size": "1 bk. af 1 kg.",
-          "price": 49.0,
-          "unit_price": 49.0,
-          "unit_base": "kg",
-          "store": "Netto",
-          "dates": "03.10 - 09.10",
-          "link": "https://www.tilbudsugen.dk/single/11349046",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
-        },
-        {
-          "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
           "size": "1 bk. af 1 kg.",
           "price": 49.0,
@@ -237,6 +225,18 @@
           "store": "SuperBrugsen",
           "dates": "02.10 - 08.10",
           "link": "https://www.tilbudsugen.dk/single/11340907",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Danpo, Hakket kylling 3-7%",
+          "size": "1 bk. af 1 kg.",
+          "price": 49.0,
+          "unit_price": 49.0,
+          "unit_base": "kg",
+          "store": "Netto",
+          "dates": "03.10 - 09.10",
+          "link": "https://www.tilbudsugen.dk/single/11349046",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -278,7 +278,7 @@
           "unit_base": "kg",
           "store": "Netto",
           "dates": "03.10 - 09.10",
-          "link": "https://www.tilbudsugen.dk/single/11349229",
+          "link": "https://www.tilbudsugen.dk/single/11349201",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
