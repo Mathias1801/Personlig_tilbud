@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T13:20+02:00",
+  "generated_at": "2026-10-13T14:34+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -84,9 +84,9 @@
           "price": 20.0,
           "unit_price": 21.62,
           "unit_base": "l",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11352398",
+          "link": "https://www.tilbudsugen.dk/single/11351913",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         },
         {
@@ -96,9 +96,9 @@
           "price": 20.0,
           "unit_price": 21.62,
           "unit_base": "l",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11351913",
+          "link": "https://www.tilbudsugen.dk/single/11352398",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
         },
         {
@@ -121,18 +121,6 @@
       "offers": [
         {
           "query": "kyllingebryst",
-          "title": "Salling, Kyllingebrystfilet",
-          "size": "1 pk. af 2.85 kg.",
-          "price": 169.0,
-          "unit_price": 59.3,
-          "unit_base": "kg",
-          "store": "Bilka",
-          "dates": "09.10 - 15.10",
-          "link": "https://www.tilbudsugen.dk/single/11355516",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
-        },
-        {
-          "query": "kyllingebryst",
           "title": "Xtra, Kyllingebrystfilet",
           "size": "1 bk. af 0.80 kg.",
           "price": 49.0,
@@ -153,6 +141,18 @@
           "store": "Kvickly",
           "dates": "09.10 - 22.10",
           "link": "https://www.tilbudsugen.dk/single/11352386",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
+        },
+        {
+          "query": "kyllingebryst",
+          "title": "Madværket, Kyllingebrystfilet",
+          "size": "1 bk. af 1 kg.",
+          "price": 64.95,
+          "unit_price": 64.95,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "13.09 - 31.12",
+          "link": "https://www.tilbudsugen.dk/single/11350878",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -217,18 +217,6 @@
         },
         {
           "query": "hakket kylling",
-          "title": "Danpo, Hakket kylling 3-7%",
-          "size": "1 bk. af 0.70 kg.",
-          "price": 39.0,
-          "unit_price": 55.71,
-          "unit_base": "kg",
-          "store": "Føtex",
-          "dates": "09.10 - 15.10",
-          "link": "https://www.tilbudsugen.dk/single/11358745",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
-        },
-        {
-          "query": "hakket kylling",
           "title": "Rose, Hakket kylling 7-10%",
           "size": "1 bk. af 0.70 kg.",
           "price": 39.0,
@@ -237,6 +225,18 @@
           "store": "Lidl",
           "dates": "11.10 - 17.10",
           "link": "https://www.tilbudsugen.dk/single/11362271",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Danpo, Hakket kylling 3-7%",
+          "size": "1 bk. af 0.70 kg.",
+          "price": 39.0,
+          "unit_price": 55.71,
+          "unit_base": "kg",
+          "store": "Føtex",
+          "dates": "09.10 - 15.10",
+          "link": "https://www.tilbudsugen.dk/single/11358745",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -294,9 +294,9 @@
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11352261",
+          "link": "https://www.tilbudsugen.dk/single/11352757",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -306,9 +306,9 @@
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11352757",
+          "link": "https://www.tilbudsugen.dk/single/11352261",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
@@ -319,14 +319,14 @@
       "offers": [
         {
           "query": "sun lolly",
-          "title": "Sun Lolly, Is frys selv - Vindrue",
+          "title": "Sun Lolly, Is frys selv - Cola",
           "size": "1 pk. af 8 stk.",
           "price": 14.0,
           "unit_price": 1.75,
           "unit_base": "stk",
           "store": "Føtex",
           "dates": "09.10 - 15.10",
-          "link": "https://www.tilbudsugen.dk/single/11358552",
+          "link": "https://www.tilbudsugen.dk/single/11358546",
           "search_link": "https://www.tilbudsugen.dk/offer/sun+lolly"
         }
       ]
