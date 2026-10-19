@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:25+02:00",
+  "generated_at": "2026-10-19T12:38+02:00",
   "products": [
     {
       "query": "pepsi max",
@@ -126,9 +126,9 @@
           "price": 49.0,
           "unit_price": 61.25,
           "unit_base": "kg",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11352386",
+          "link": "https://www.tilbudsugen.dk/single/11351880",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -138,9 +138,9 @@
           "price": 49.0,
           "unit_price": 61.25,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11351880",
+          "link": "https://www.tilbudsugen.dk/single/11352386",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -217,18 +217,6 @@
         },
         {
           "query": "hakket kylling",
-          "title": "Rose, Hakket kylling 7-10%",
-          "size": "1 bk. af 1 kg.",
-          "price": 49.0,
-          "unit_price": 49.0,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "18.10 - 24.10",
-          "link": "https://www.tilbudsugen.dk/single/11372483",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
-        },
-        {
-          "query": "hakket kylling",
           "title": "Danpo, Hakket kylling 3-7%",
           "size": "1 bk. af 1 kg.",
           "price": 49.0,
@@ -237,6 +225,18 @@
           "store": "Netto",
           "dates": "17.10 - 23.10",
           "link": "https://www.tilbudsugen.dk/single/11365851",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
+        },
+        {
+          "query": "hakket kylling",
+          "title": "Rose, Hakket kylling 7-10%",
+          "size": "1 bk. af 1 kg.",
+          "price": 49.0,
+          "unit_price": 49.0,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "18.10 - 24.10",
+          "link": "https://www.tilbudsugen.dk/single/11372483",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -254,7 +254,7 @@
           "unit_base": "kg",
           "store": "Netto",
           "dates": "17.10 - 23.10",
-          "link": "https://www.tilbudsugen.dk/single/11365699",
+          "link": "https://www.tilbudsugen.dk/single/11365846",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -276,9 +276,9 @@
           "price": 75.0,
           "unit_price": 93.75,
           "unit_base": "kg",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11352490",
+          "link": "https://www.tilbudsugen.dk/single/11352129",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -306,9 +306,9 @@
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11352261",
+          "link": "https://www.tilbudsugen.dk/single/11352757",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -318,9 +318,9 @@
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "09.10 - 22.10",
-          "link": "https://www.tilbudsugen.dk/single/11352757",
+          "link": "https://www.tilbudsugen.dk/single/11352261",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
