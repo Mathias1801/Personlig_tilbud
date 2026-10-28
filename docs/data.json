@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:18+01:00",
+  "generated_at": "2026-10-28T12:11+01:00",
   "products": [
     {
       "query": "pepsi max",
@@ -140,7 +140,7 @@
           "unit_base": "kg",
           "store": "Netto",
           "dates": "24.10 - 30.10",
-          "link": "https://www.tilbudsugen.dk/single/11376612",
+          "link": "https://www.tilbudsugen.dk/single/11376894",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -152,7 +152,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "13.09 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11369259",
+          "link": "https://www.tilbudsugen.dk/single/11382823",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -266,19 +266,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "13.09 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11369269",
-          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
-        },
-        {
-          "query": "hakket oksekød",
-          "title": "Coop, Hakket oksekød 8-12%",
-          "size": "1 ps. af 0.40 kg.",
-          "price": 39.0,
-          "unit_price": 97.5,
-          "unit_base": "kg",
-          "store": "Kvickly",
-          "dates": "23.10 - 29.10",
-          "link": "https://www.tilbudsugen.dk/single/11372679",
+          "link": "https://www.tilbudsugen.dk/single/11382832",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -291,6 +279,18 @@
           "store": "SuperBrugsen",
           "dates": "23.10 - 29.10",
           "link": "https://www.tilbudsugen.dk/single/11371381",
+          "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
+        },
+        {
+          "query": "hakket oksekød",
+          "title": "Coop, Hakket oksekød 8-12%",
+          "size": "1 ps. af 0.40 kg.",
+          "price": 39.0,
+          "unit_price": 97.5,
+          "unit_base": "kg",
+          "store": "Kvickly",
+          "dates": "23.10 - 29.10",
+          "link": "https://www.tilbudsugen.dk/single/11372679",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         }
       ]
@@ -367,7 +367,7 @@
           "unit_base": "l",
           "store": "Lidl",
           "dates": "13.09 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11369247",
+          "link": "https://www.tilbudsugen.dk/single/11382811",
           "search_link": "https://www.tilbudsugen.dk/offer/vaskemiddel"
         }
       ]
