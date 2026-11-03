@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-11-02T14:18+01:00",
+  "generated_at": "2026-11-03T13:42+01:00",
   "products": [
     {
       "query": "pepsi max",
       "count": 3,
       "offers": [
+        {
+          "query": "pepsi max",
+          "title": "Pepsi Max, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 10.0,
+          "unit_price": 6.67,
+          "unit_base": "l",
+          "store": "REMA 1000",
+          "dates": "01.11 - 07.11",
+          "link": "https://www.tilbudsugen.dk/single/11388140",
+          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
+        },
         {
           "query": "pepsi max",
           "title": "Pepsi Max Lime, Cola",
@@ -21,24 +33,12 @@
           "query": "pepsi max",
           "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "01.11 - 07.11",
-          "link": "https://www.tilbudsugen.dk/single/11388140",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 2 ltr.",
-          "price": 16.0,
+          "price": 12.0,
           "unit_price": 8.0,
           "unit_base": "l",
-          "store": "Føtex",
-          "dates": "30.10 - 12.11",
-          "link": "https://www.tilbudsugen.dk/single/11385350",
+          "store": "Bilka",
+          "dates": "30.10 - 05.11",
+          "link": "https://www.tilbudsugen.dk/single/11383513",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -277,14 +277,14 @@
       "offers": [
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 9.0,
           "unit_price": 18.0,
           "unit_base": "l",
           "store": "SPAR",
           "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11381695",
+          "link": "https://www.tilbudsugen.dk/single/11381688",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
