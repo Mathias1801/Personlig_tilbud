@@ -1,22 +1,10 @@
 {
-  "generated_at": "2026-11-03T13:42+01:00",
+  "generated_at": "2026-11-04T13:52+01:00",
   "products": [
     {
       "query": "pepsi max",
       "count": 3,
       "offers": [
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "01.11 - 07.11",
-          "link": "https://www.tilbudsugen.dk/single/11388140",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
         {
           "query": "pepsi max",
           "title": "Pepsi Max Lime, Cola",
@@ -27,6 +15,18 @@
           "store": "Netto",
           "dates": "31.10 - 06.11",
           "link": "https://www.tilbudsugen.dk/single/11385992",
+          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
+        },
+        {
+          "query": "pepsi max",
+          "title": "Pepsi Max, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 10.0,
+          "unit_price": 6.67,
+          "unit_base": "l",
+          "store": "REMA 1000",
+          "dates": "01.11 - 07.11",
+          "link": "https://www.tilbudsugen.dk/single/11388140",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -121,30 +121,6 @@
       "offers": [
         {
           "query": "kyllingebryst",
-          "title": "Rose, Kyllingebrystfilet",
-          "size": "1 ps. af 0.90 kg.",
-          "price": 49.99,
-          "unit_price": 55.54,
-          "unit_base": "kg",
-          "store": "Løvbjerg",
-          "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11381492",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
-        },
-        {
-          "query": "kyllingebryst",
-          "title": "Salling, Kyllingebrystfilet",
-          "size": "1 pk. af 2.85 kg.",
-          "price": 165.0,
-          "unit_price": 57.89,
-          "unit_base": "kg",
-          "store": "Bilka",
-          "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11383598",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
-        },
-        {
-          "query": "kyllingebryst",
           "title": "Madværket, Kyllingebrystfilet",
           "size": "1 bk. af 1 kg.",
           "price": 64.95,
@@ -153,6 +129,30 @@
           "store": "Lidl",
           "dates": "13.09 - 31.12",
           "link": "https://www.tilbudsugen.dk/single/11382823",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
+        },
+        {
+          "query": "kyllingebryst",
+          "title": "Rose, Kyllingebrystfilet",
+          "size": "1 bk. af 1.20 kg.",
+          "price": 79.0,
+          "unit_price": 65.83,
+          "unit_base": "kg",
+          "store": "SuperBrugsen",
+          "dates": "01.11 - 30.11",
+          "link": "https://www.tilbudsugen.dk/single/11389878",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
+        },
+        {
+          "query": "kyllingebryst",
+          "title": "Rose, Kyllingebrystfilet",
+          "size": "1 bk. af 1.20 kg.",
+          "price": 79.0,
+          "unit_price": 65.83,
+          "unit_base": "kg",
+          "store": "Kvickly",
+          "dates": "01.10 - 30.11",
+          "link": "https://www.tilbudsugen.dk/single/11379976",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -277,26 +277,26 @@
       "offers": [
         {
           "query": "scoop",
-          "title": "Scoop, Hindbærsmag Læskedrik",
+          "title": "Scoop, Colafantasi Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 9.0,
           "unit_price": 18.0,
           "unit_base": "l",
           "store": "SPAR",
           "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11381688",
+          "link": "https://www.tilbudsugen.dk/single/11381695",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
           "query": "scoop",
-          "title": "Scoop, Hindbærsmag Læskedrik",
+          "title": "Scoop, Colafantasi Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 9.99,
           "unit_price": 19.98,
           "unit_base": "l",
           "store": "Løvbjerg",
           "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11382375",
+          "link": "https://www.tilbudsugen.dk/single/11382378",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
