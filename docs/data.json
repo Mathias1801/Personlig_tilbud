@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:52+01:00",
+  "generated_at": "2026-11-05T14:00+01:00",
   "products": [
     {
       "query": "pepsi max",
@@ -7,14 +7,14 @@
       "offers": [
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lime, Cola",
+          "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
+          "price": 9.0,
+          "unit_price": 6.0,
           "unit_base": "l",
-          "store": "Netto",
-          "dates": "31.10 - 06.11",
-          "link": "https://www.tilbudsugen.dk/single/11385992",
+          "store": "Lidl",
+          "dates": "05.11 - 07.11",
+          "link": "https://www.tilbudsugen.dk/single/11392007",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -31,14 +31,14 @@
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lime, Cola",
           "size": "1 fl. af 1.50 ltr.",
-          "price": 12.0,
-          "unit_price": 8.0,
+          "price": 10.0,
+          "unit_price": 6.67,
           "unit_base": "l",
-          "store": "Bilka",
-          "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11383513",
+          "store": "Netto",
+          "dates": "31.10 - 06.11",
+          "link": "https://www.tilbudsugen.dk/single/11385992",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -151,8 +151,8 @@
           "unit_price": 65.83,
           "unit_base": "kg",
           "store": "Kvickly",
-          "dates": "01.10 - 30.11",
-          "link": "https://www.tilbudsugen.dk/single/11379976",
+          "dates": "01.11 - 30.11",
+          "link": "https://www.tilbudsugen.dk/single/11390208",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -277,26 +277,26 @@
       "offers": [
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 9.0,
           "unit_price": 18.0,
           "unit_base": "l",
           "store": "SPAR",
           "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11381695",
+          "link": "https://www.tilbudsugen.dk/single/11381688",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 9.99,
           "unit_price": 19.98,
           "unit_base": "l",
           "store": "Løvbjerg",
           "dates": "30.10 - 05.11",
-          "link": "https://www.tilbudsugen.dk/single/11382378",
+          "link": "https://www.tilbudsugen.dk/single/11382375",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
