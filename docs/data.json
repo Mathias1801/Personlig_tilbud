@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:37+01:00",
+  "generated_at": "2026-11-08T12:49+01:00",
   "products": [
     {
       "query": "pepsi max",
@@ -9,24 +9,12 @@
           "query": "pepsi max",
           "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
-          "price": 9.0,
-          "unit_price": 6.0,
+          "price": 12.0,
+          "unit_price": 8.0,
           "unit_base": "l",
-          "store": "Lidl",
-          "dates": "05.11 - 07.11",
-          "link": "https://www.tilbudsugen.dk/single/11392007",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "01.11 - 07.11",
-          "link": "https://www.tilbudsugen.dk/single/11388140",
+          "store": "Bilka",
+          "dates": "06.11 - 12.11",
+          "link": "https://www.tilbudsugen.dk/single/11393766",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -36,9 +24,21 @@
           "price": 12.0,
           "unit_price": 8.0,
           "unit_base": "l",
+          "store": "SuperBrugsen",
+          "dates": "06.11 - 12.11",
+          "link": "https://www.tilbudsugen.dk/single/11389838",
+          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
+        },
+        {
+          "query": "pepsi max",
+          "title": "Pepsi Max, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 12.0,
+          "unit_price": 8.0,
+          "unit_base": "l",
           "store": "Kvickly",
           "dates": "06.11 - 12.11",
-          "link": "https://www.tilbudsugen.dk/single/11390364",
+          "link": "https://www.tilbudsugen.dk/single/11390362",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -90,18 +90,6 @@
       "count": 3,
       "offers": [
         {
-          "query": "dun-let",
-          "title": "Dun-let, Skyllemiddel",
-          "size": "1 stk. af 0.85 ltr.",
-          "price": 18.0,
-          "unit_price": 21.18,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "01.11 - 07.11",
-          "link": "https://www.tilbudsugen.dk/single/11387702",
-          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
-        },
-        {
           "query": "bamseline",
           "title": "Bamseline, Skyllemiddel",
           "size": "1 stk. af 0.93 ltr.",
@@ -124,6 +112,18 @@
           "dates": "06.11 - 12.11",
           "link": "https://www.tilbudsugen.dk/single/11384863",
           "search_link": "https://www.tilbudsugen.dk/offer/bamseline"
+        },
+        {
+          "query": "dun-let",
+          "title": "Dun-let, Skyllemiddel",
+          "size": "1 stk. af 0.85 ltr.",
+          "price": 23.0,
+          "unit_price": 27.06,
+          "unit_base": "l",
+          "store": "Føtex",
+          "dates": "30.10 - 12.11",
+          "link": "https://www.tilbudsugen.dk/single/11385756",
+          "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         }
       ]
     },
@@ -162,9 +162,9 @@
           "price": 79.0,
           "unit_price": 65.83,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
+          "store": "Dagli'Brugsen",
           "dates": "01.11 - 30.11",
-          "link": "https://www.tilbudsugen.dk/single/11389878",
+          "link": "https://www.tilbudsugen.dk/single/11398689",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -199,14 +199,14 @@
         },
         {
           "query": "kyllingeoverlår",
-          "title": "Madværket, Kyllingeoverlår",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 29.95,
-          "unit_price": 37.44,
+          "title": "Rema 1000, Kyllingeoverlår",
+          "size": "1 ps. af 1.25 kg.",
+          "price": 35.0,
+          "unit_price": 28.0,
           "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "13.09 - 31.12",
-          "link": "https://www.tilbudsugen.dk/single/11401304",
+          "store": "REMA 1000",
+          "dates": "08.11 - 14.11",
+          "link": "https://www.tilbudsugen.dk/single/11396703",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -271,14 +271,14 @@
         },
         {
           "query": "hakket oksekød",
-          "title": "Rema 1000, Hakket oksekød 15-18%",
-          "size": "1 bk. af 0.40 kg.",
-          "price": 35.0,
-          "unit_price": 87.5,
+          "title": "Madværket, Hakket oksekød 8-12%",
+          "size": "1 bk. af 0.35 kg.",
+          "price": 29.0,
+          "unit_price": 82.86,
           "unit_base": "kg",
-          "store": "REMA 1000",
-          "dates": "01.11 - 07.11",
-          "link": "https://www.tilbudsugen.dk/single/11388201",
+          "store": "Lidl",
+          "dates": "08.11 - 14.11",
+          "link": "https://www.tilbudsugen.dk/single/11399592",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -306,9 +306,9 @@
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "06.11 - 12.11",
-          "link": "https://www.tilbudsugen.dk/single/11390030",
+          "link": "https://www.tilbudsugen.dk/single/11390285",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -318,9 +318,9 @@
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "06.11 - 12.11",
-          "link": "https://www.tilbudsugen.dk/single/11390285",
+          "link": "https://www.tilbudsugen.dk/single/11390030",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
