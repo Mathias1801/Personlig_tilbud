@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:28+01:00",
+  "generated_at": "2026-11-17T15:14+01:00",
   "products": [
     {
       "query": "pepsi max",
@@ -14,7 +14,7 @@
           "unit_base": "l",
           "store": "Lidl",
           "dates": "15.11 - 21.11",
-          "link": "https://www.tilbudsugen.dk/single/11409748",
+          "link": "https://www.tilbudsugen.dk/single/11410780",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
@@ -84,9 +84,9 @@
           "price": 28.0,
           "unit_price": 32.94,
           "unit_base": "l",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11398302",
+          "link": "https://www.tilbudsugen.dk/single/11397897",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         },
         {
@@ -96,9 +96,9 @@
           "price": 28.0,
           "unit_price": 32.94,
           "unit_base": "l",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11397897",
+          "link": "https://www.tilbudsugen.dk/single/11398302",
           "search_link": "https://www.tilbudsugen.dk/offer/dun-let"
         }
       ]
@@ -128,7 +128,7 @@
           "unit_base": "kg",
           "store": "Lidl",
           "dates": "15.11 - 21.11",
-          "link": "https://www.tilbudsugen.dk/single/11409765",
+          "link": "https://www.tilbudsugen.dk/single/11410797",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         },
         {
@@ -139,8 +139,8 @@
           "unit_price": 65.83,
           "unit_base": "kg",
           "store": "Kvickly",
-          "dates": "01.10 - 30.11",
-          "link": "https://www.tilbudsugen.dk/single/11379976",
+          "dates": "01.11 - 30.11",
+          "link": "https://www.tilbudsugen.dk/single/11390208",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -210,9 +210,9 @@
           "price": 45.0,
           "unit_price": 45.0,
           "unit_base": "kg",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11398130",
+          "link": "https://www.tilbudsugen.dk/single/11397577",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -222,9 +222,9 @@
           "price": 45.0,
           "unit_price": 45.0,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11397577",
+          "link": "https://www.tilbudsugen.dk/single/11398130",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
@@ -277,14 +277,14 @@
       "offers": [
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 12.0,
           "unit_price": 24.0,
           "unit_base": "l",
           "store": "Meny",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11394613",
+          "link": "https://www.tilbudsugen.dk/single/11394607",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
