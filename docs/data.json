@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:14+01:00",
+  "generated_at": "2026-11-18T14:45+01:00",
   "products": [
     {
       "query": "pepsi max",
@@ -138,9 +138,9 @@
           "price": 79.0,
           "unit_price": 65.83,
           "unit_base": "kg",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "01.11 - 30.11",
-          "link": "https://www.tilbudsugen.dk/single/11390208",
+          "link": "https://www.tilbudsugen.dk/single/11411426",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingebryst"
         }
       ]
@@ -168,9 +168,9 @@
           "price": 39.0,
           "unit_price": 39.0,
           "unit_base": "kg",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11398305",
+          "link": "https://www.tilbudsugen.dk/single/11397903",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
@@ -180,9 +180,9 @@
           "price": 39.0,
           "unit_price": 39.0,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11397903",
+          "link": "https://www.tilbudsugen.dk/single/11398305",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         }
       ]
@@ -210,9 +210,9 @@
           "price": 45.0,
           "unit_price": 45.0,
           "unit_base": "kg",
-          "store": "SuperBrugsen",
+          "store": "Kvickly",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11397577",
+          "link": "https://www.tilbudsugen.dk/single/11398130",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         },
         {
@@ -222,9 +222,9 @@
           "price": 45.0,
           "unit_price": 45.0,
           "unit_base": "kg",
-          "store": "Kvickly",
+          "store": "SuperBrugsen",
           "dates": "13.11 - 19.11",
-          "link": "https://www.tilbudsugen.dk/single/11398130",
+          "link": "https://www.tilbudsugen.dk/single/11397577",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+kylling"
         }
       ]
