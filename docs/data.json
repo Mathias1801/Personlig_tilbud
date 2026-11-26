@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T16:24+01:00",
+  "generated_at": "2026-11-26T15:54+01:00",
   "products": [
     {
       "query": "pepsi max",
@@ -7,38 +7,38 @@
       "offers": [
         {
           "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
-          "size": "1 fl. af 1.50 ltr.",
-          "price": 10.0,
-          "unit_price": 6.67,
-          "unit_base": "l",
-          "store": "REMA 1000",
-          "dates": "22.11 - 28.11",
-          "link": "https://www.tilbudsugen.dk/single/11414085",
-          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
-        },
-        {
-          "query": "pepsi max",
-          "title": "Pepsi Max, Cola",
+          "title": "Pepsi Max Lemon, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 10.0,
           "unit_price": 6.67,
           "unit_base": "l",
           "store": "Netto",
           "dates": "21.11 - 27.11",
-          "link": "https://www.tilbudsugen.dk/single/11413694",
+          "link": "https://www.tilbudsugen.dk/single/11413695",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         },
         {
           "query": "pepsi max",
-          "title": "Pepsi Max Lemon, Cola",
+          "title": "Pepsi Max Lime, Cola",
+          "size": "1 fl. af 1.50 ltr.",
+          "price": 10.0,
+          "unit_price": 6.67,
+          "unit_base": "l",
+          "store": "REMA 1000",
+          "dates": "22.11 - 28.11",
+          "link": "https://www.tilbudsugen.dk/single/11414086",
+          "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
+        },
+        {
+          "query": "pepsi max",
+          "title": "Pepsi Max, Cola",
           "size": "1 fl. af 1.50 ltr.",
           "price": 13.0,
           "unit_price": 8.67,
           "unit_base": "l",
-          "store": "Dagli'Brugsen",
-          "dates": "20.11 - 03.12",
-          "link": "https://www.tilbudsugen.dk/single/11416064",
+          "store": "Bilka",
+          "dates": "20.11 - 26.11",
+          "link": "https://www.tilbudsugen.dk/single/11414842",
           "search_link": "https://www.tilbudsugen.dk/offer/pepsi+max"
         }
       ]
@@ -175,18 +175,6 @@
       "offers": [
         {
           "query": "kyllingeoverlår",
-          "title": "Madværket, Kyllingeoverlår",
-          "size": "1 bk. af 0.80 kg.",
-          "price": 20.0,
-          "unit_price": 25.0,
-          "unit_base": "kg",
-          "store": "Lidl",
-          "dates": "22.11 - 28.11",
-          "link": "https://www.tilbudsugen.dk/single/11424038",
-          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
-        },
-        {
-          "query": "kyllingeoverlår",
           "title": "Rema 1000, Kyllingeoverlår",
           "size": "1 bk. af 0.40 kg.",
           "price": 10.0,
@@ -195,6 +183,18 @@
           "store": "REMA 1000",
           "dates": "22.11 - 28.11",
           "link": "https://www.tilbudsugen.dk/single/11413334",
+          "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
+        },
+        {
+          "query": "kyllingeoverlår",
+          "title": "Madværket, Kyllingeoverlår",
+          "size": "1 bk. af 0.80 kg.",
+          "price": 20.0,
+          "unit_price": 25.0,
+          "unit_base": "kg",
+          "store": "Lidl",
+          "dates": "22.11 - 28.11",
+          "link": "https://www.tilbudsugen.dk/single/11424038",
           "search_link": "https://www.tilbudsugen.dk/offer/kyllingeoverlår"
         },
         {
@@ -278,7 +278,7 @@
           "unit_base": "kg",
           "store": "Netto",
           "dates": "21.11 - 27.11",
-          "link": "https://www.tilbudsugen.dk/single/11413811",
+          "link": "https://www.tilbudsugen.dk/single/11414005",
           "search_link": "https://www.tilbudsugen.dk/offer/hakket+oksekød"
         },
         {
@@ -301,26 +301,14 @@
       "offers": [
         {
           "query": "scoop",
-          "title": "Scoop, Colafantasi Læskedrik",
+          "title": "Scoop, Hindbærsmag Læskedrik",
           "size": "1 fl. af 0.50 ltr.",
           "price": 10.0,
           "unit_price": 20.0,
           "unit_base": "l",
           "store": "SPAR",
           "dates": "20.11 - 26.11",
-          "link": "https://www.tilbudsugen.dk/single/11402318",
-          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
-        },
-        {
-          "query": "scoop",
-          "title": "Scoop, Hindbærsmag Læskedrik",
-          "size": "1 fl. af 0.50 ltr.",
-          "price": 10.0,
-          "unit_price": 20.0,
-          "unit_base": "l",
-          "store": "SuperBrugsen",
-          "dates": "20.11 - 26.11",
-          "link": "https://www.tilbudsugen.dk/single/11411233",
+          "link": "https://www.tilbudsugen.dk/single/11402315",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         },
         {
@@ -333,6 +321,18 @@
           "store": "Kvickly",
           "dates": "20.11 - 26.11",
           "link": "https://www.tilbudsugen.dk/single/11411958",
+          "search_link": "https://www.tilbudsugen.dk/offer/scoop"
+        },
+        {
+          "query": "scoop",
+          "title": "Scoop, Hindbærsmag Læskedrik",
+          "size": "1 fl. af 0.50 ltr.",
+          "price": 10.0,
+          "unit_price": 20.0,
+          "unit_base": "l",
+          "store": "SuperBrugsen",
+          "dates": "20.11 - 26.11",
+          "link": "https://www.tilbudsugen.dk/single/11411233",
           "search_link": "https://www.tilbudsugen.dk/offer/scoop"
         }
       ]
